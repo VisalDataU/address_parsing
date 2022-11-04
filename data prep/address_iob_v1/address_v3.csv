@@ -1,0 +1,785 @@
+address,new_house_no,new_street_no,village_phum,commune_khum,district_srok,new_province
+"Pa Chon Thum, Aekakpheap, Ou Chum, Ratanak Kiri Province",,,Pa Chon Thum,Aekakpheap,Ou Chum,Ratanak Kiri Province
+"Damreb, Akphivoadth, Tuek Phos, Kampong Chhnang Province",,,Damreb,Akphivoadth,Tuek Phos,Kampong Chhnang Province
+"Akreiy Ksatr, Akreiy Ksatr, Lvea Aem, Kandal Province",,,Akreiy Ksatr,Akreiy Ksatr,Lvea Aem,Kandal Province
+"Akreiy Ksatr, Lvea Aem, Kandal Province",,,,Akreiy Ksatr,Lvea Aem,Kandal Province
+"Andoung Chroh, Ampil, Kampong Siem, Kampong Cham Province",,,Andoung Chroh,Ampil,Kampong Siem,Kampong Cham Province
+"Kiri Meanon, Ampil, Prasat Bakong, Siemreap Province",,,Kiri Meanon,Ampil,Prasat Bakong,Siemreap Province
+"Prey Kuy, Ampil, Prasat Bakong, Siemreap Province",,,Prey Kuy,Ampil,Prasat Bakong,Siemreap Province
+"Tnaot, Ampil, Prasat Bakong, Siemreap Province",,,Tnaot,Ampil,Prasat Bakong,Siemreap Province
+"Trapeang Run, Ampil, Prasat Bakong, Siemreap Province",,,Trapeang Run,Ampil,Prasat Bakong,Siemreap Province
+"Ampil, Kampong Siem, Kampong Cham Province",,,,Ampil,Kampong Siem,Kampong Cham Province
+"Ampil, Prasat Bakong, Siemreap Province",,,,Ampil,Prasat Bakong,Siemreap Province
+"Trapeang Prei, Angk Khnor, Treang, Takeo Province",,,Trapeang Prei,Angk Khnor,Treang,Takeo Province
+"Angk Khnor, Treang, Takeo Province",,,,Angk Khnor,Treang,Takeo Province
+"St.Road  10 metter, Svay Teab, Angk Popel, Kong Pisei, Kampong Speu Province",,St.Road  10 metter,Svay Teab,Angk Popel,Kong Pisei,Kampong Speu Province
+"St.Road22, Prey Chheu Teal Kraom, Angk Ta Saom, Tram Kak, Takeo Province",,St.Road22,Prey Chheu Teal Kraom,Angk Ta Saom,Tram Kak,Takeo Province
+"St.Road3, Sek Yea, Angk Ta Saom, Tram Kak, Takeo Province",,St.Road3,Sek Yea,Angk Ta Saom,Tram Kak,Takeo Province
+"Daeum Trang, Anlong Romiet, Kandal Stueng, Kandal Province",,,Daeum Trang,Anlong Romiet,Kandal Stueng,Kandal Province
+"St.67B, Anlong Veaeng, Anlong Veaeng, Oddar Meanchey Province",,St.67B,,Anlong Veaeng,Anlong Veaeng,Oddar Meanchey Province
+"#NA, St.NA, Beng, Anlong Vil, Sangkae, Battambang Province",#NA,St.NA,Beng,Anlong Vil,Sangkae,Battambang Province
+"Ou Muni Muoy, Anlong Vil, Sangkae, Battambang Province",,,Ou Muni Muoy,Anlong Vil,Sangkae,Battambang Province
+"B'er, Kampong Chhnang, Kampong Chhnang Province",,,,B'er,Kampong Chhnang,Kampong Chhnang Province
+"#None, St.None, Chong Bangkoul, Baek Chan, Angk Snuol, Kandal Province",#None,St.None,Chong Bangkoul,Baek Chan,Angk Snuol,Kandal Province
+"Ta Phouk, Bakong, Prasat Bakong, Siemreap Province",,,Ta Phouk,Bakong,Prasat Bakong,Siemreap Province
+"Thnal Trang, Bakong, Prasat Bakong, Siemreap Province",,,Thnal Trang,Bakong,Prasat Bakong,Siemreap Province
+"Krapeu, Ballangk, Prasat Bakong, Siemreap Province",,,Krapeu,Ballangk,Prasat Bakong,Siemreap Province
+"Snar Sangkream, Ballangk, Banteay Srei, Siemreap Province",,,Snar Sangkream,Ballangk,Banteay Srei,Siemreap Province
+"Trach, Ballangk, Prasat Bakong, Siemreap Province",,,Trach,Ballangk,Prasat Bakong,Siemreap Province
+"St.N/A, Bansay Reak, Bansay Reak, Samraong, Oddar Meanchey Province",,St.N/A,Bansay Reak,Bansay Reak,Samraong,Oddar Meanchey Province
+"#, St., Kaev Sovann Leu, Banteay Dei, Pursat, Pursat Province",#,St.,Kaev Sovann Leu,Banteay Dei,Pursat,Pursat Province
+"#, St., Ou Ba Krang Leu, Banteay Dei, Pursat, Pursat Province",#,St.,Ou Ba Krang Leu,Banteay Dei,Pursat,Pursat Province
+"Banteay Dei Leu, Banteay Dei, Pursat, Pursat Province",,,Banteay Dei Leu,Banteay Dei,Pursat,Pursat Province
+"St., Thon Mon Khang Tboung, Baray, Doun Kaev, Takeo Province",,St.,Thon Mon Khang Tboung,Baray,Doun Kaev,Takeo Province
+"Batheay, Batheay, Batheay, Kampong Cham Province",,,Batheay,Batheay,Batheay,Kampong Cham Province
+"#B16, Ta Boeb, Bavet, Bavet, Svay Rieng Province",#B16,,Ta Boeb,Bavet,Bavet,Svay Rieng Province
+"Phum Pir, Bei, Preah Sihanouk, Preah Sihanouk Province",,,Phum Pir,Bei,Preah Sihanouk,Preah Sihanouk Province
+"Bei, Preah Sihanouk, Preah Sihanouk Province",,,,Bei,Preah Sihanouk,Preah Sihanouk Province
+"St., Kantuy Chun, Beng, Banteay Ampil, Oddar Meanchey Province",,St.,Kantuy Chun,Beng,Banteay Ampil,Oddar Meanchey Province
+"Beng, Banteay Ampil, Oddar Meanchey Province",,,,Beng,Banteay Ampil,Oddar Meanchey Province
+"Pu Thoeang, Bet Trang, Prey Nob, Preah Sihanouk Province",,,Pu Thoeang,Bet Trang,Prey Nob,Preah Sihanouk Province
+"Prey Damrei, Boeng Bat Kandaol, Bakan, Pursat Province",,,Prey Damrei,Boeng Bat Kandaol,Bakan,Pursat Province
+"#NA, St.NA, Souriya, Boeng Daol, Preah Sdach, Prey Veng Province",#NA,St.NA,Souriya,Boeng Daol,Preah Sdach,Prey Veng Province
+"St.NA, Boeng Daol, Boeng Daol, Preah Sdach, Prey Veng Province",,St.NA,Boeng Daol,Boeng Daol,Preah Sdach,Prey Veng Province
+"St.353, Boeng Kak Ti Muoy, Tuol Kouk, Phnom Penh Capital",,St.353,,Boeng Kak Ti Muoy,Tuol Kouk,Phnom Penh Capital
+"Boeng Kak Ti Muoy, Tuol Kouk, Phnom Penh Capital",,,,Boeng Kak Ti Muoy,Tuol Kouk,Phnom Penh Capital
+"St.590, Boeng Kak Ti Pir, Tuol Kouk, Phnom Penh Capital",,St.590,,Boeng Kak Ti Pir,Tuol Kouk,Phnom Penh Capital
+"St.313, Boeng Kak Ti Pir, Tuol Kouk, Phnom Penh Capital",,St.313,,Boeng Kak Ti Pir,Tuol Kouk,Phnom Penh Capital
+"Boeng Kak Ti Pir, Tuol Kouk, Phnom Penh Capital",,,,Boeng Kak Ti Pir,Tuol Kouk,Phnom Penh Capital
+"Boeng Keng Kang Ti Bei, Boeng Keng Kang, Phnom Penh Capital",,,,Boeng Keng Kang Ti Bei,Boeng Keng Kang,Phnom Penh Capital
+"Boeng Keng Kang Ti Muoy, Boeng Keng Kang, Phnom Penh Capital",,,,Boeng Keng Kang Ti Muoy,Boeng Keng Kang,Phnom Penh Capital
+"Prey Damrei, Boeng Khnar, Bakan, Pursat Province",,,Prey Damrei,Boeng Khnar,Bakan,Pursat Province
+"Boeng Khnar, Bakan, Pursat Province",,,,Boeng Khnar,Bakan,Pursat Province
+"#, St.Lum, Srah Pou, Boeng Khyang, Kandal Stueng, Kandal Province",#,St.Lum,Srah Pou,Boeng Khyang,Kandal Stueng,Kandal Province
+"Trapeang Korkos, Boeng Lvea, Santuk, Kampong Thom Province",,,Trapeang Korkos,Boeng Lvea,Santuk,Kampong Thom Province
+"Boeng Reang, Doun Penh, Phnom Penh Capital",,,,Boeng Reang,Doun Penh,Phnom Penh Capital
+"#NA, St.StNA, Boeng Salang, Tuol Kouk, Phnom Penh Capital",#NA,St.StNA,,Boeng Salang,Tuol Kouk,Phnom Penh Capital
+"#95, St.Betong, Boeng Thum, Kamboul, Phnom Penh Capital",#95,St.Betong,,Boeng Thum,Kamboul,Phnom Penh Capital
+"#, St., Boeng Tumpun 1, Mean Chey, Phnom Penh Capital",#,St.,,Boeng Tumpun 1,Mean Chey,Phnom Penh Capital
+"Chamroeunphal Muoy, Boeng Tumpun 1, Mean Chey, Phnom Penh Capital",,,Chamroeunphal Muoy,Boeng Tumpun 1,Mean Chey,Phnom Penh Capital
+"#, St., Boeng Tumpun 2, Mean Chey, Phnom Penh Capital",#,St.,,Boeng Tumpun 2,Mean Chey,Phnom Penh Capital
+"Boeng Tumpun 2, Mean Chey, Phnom Penh Capital",,,,Boeng Tumpun 2,Mean Chey,Phnom Penh Capital
+"Bos Khnor, Chamkar Leu, Kampong Cham Province",,,,Bos Khnor,Chamkar Leu,Kampong Cham Province
+"#NA , St.Betong, Phum Pram, Buon, Preah Sihanouk, Preah Sihanouk Province",#NA ,St.Betong,Phum Pram,Buon,Preah Sihanouk,Preah Sihanouk Province
+"#, St., Buon, Preah Sihanouk, Preah Sihanouk Province",#,St.,,Buon,Preah Sihanouk,Preah Sihanouk Province
+"Phum Muoy, Buon, Preah Sihanouk, Preah Sihanouk Province",,,Phum Muoy,Buon,Preah Sihanouk,Preah Sihanouk Province
+"Buon, Preah Sihanouk, Preah Sihanouk Province",,,,Buon,Preah Sihanouk,Preah Sihanouk Province
+"Preaek Ta Long II, Chak Angrae Kraom, Mean Chey, Phnom Penh Capital",,,Preaek Ta Long II,Chak Angrae Kraom,Mean Chey,Phnom Penh Capital
+"#57, St.Commercial, Chak Angrae Leu, Mean Chey, Phnom Penh Capital",#57,St.Commercial,,Chak Angrae Leu,Mean Chey,Phnom Penh Capital
+"St.National Road Number 02, Ta Nob, Chambak, Bati, Takeo Province",,St.National Road Number 02,Ta Nob,Chambak,Bati,Takeo Province
+"#, St., Ou Roka, Chamraeun Phal, Pursat, Pursat Province",#,St.,Ou Roka,Chamraeun Phal,Pursat,Pursat Province
+"#, St., Svay Meas, Chamraeun Phal, Pursat, Pursat Province",#,St.,Svay Meas,Chamraeun Phal,Pursat,Pursat Province
+"Tuol Kruos, Chamraeun Phal, Pursat, Pursat Province",,,Tuol Kruos,Chamraeun Phal,Pursat,Pursat Province
+"Baek Kamphleung, Chan Sa, Soutr Nikom, Siemreap Province",,,Baek Kamphleung,Chan Sa,Soutr Nikom,Siemreap Province
+"Chan Saen, Odongk, Kampong Speu Province",,,,Chan Saen,Odongk,Kampong Speu Province
+"#, St., Chaom Chau 1, Pur SenChey, Phnom Penh Capital",#,St.,,Chaom Chau 1,Pur SenChey,Phnom Penh Capital
+"Trapeang Rumchek, Chaom Chau 1, Pur SenChey, Phnom Penh Capital",,,Trapeang Rumchek,Chaom Chau 1,Pur SenChey,Phnom Penh Capital
+"Trapeang Thloeng 4, Chaom Chau 1, Pur SenChey, Phnom Penh Capital",,,Trapeang Thloeng 4,Chaom Chau 1,Pur SenChey,Phnom Penh Capital
+"#36E06, St.260CC, Krang Doun Tey, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",#36E06,St.260CC,Krang Doun Tey,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"#3I, St.BT, Prey Pring Khang Tboung 1, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",#3I,St.BT,Prey Pring Khang Tboung 1,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"#NA, St.Concrete, Srae Chumrov, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",#NA,St.Concrete,Srae Chumrov,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"#CC18, Prey Spueu, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",#CC18,,Prey Spueu,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"#_, St.Lom, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",#_,St.Lom,,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"#no, St.no, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",#no,St.no,,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"#NA, St.Concrete, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",#NA,St.Concrete,,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"Chrey Kaong, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",,,Chrey Kaong,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"Damnak Trayueng, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",,,Damnak Trayueng,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"Thma Koul 1, Chaom Chau 2, Pur SenChey, Phnom Penh Capital",,,Thma Koul 1,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"Chaom Chau 2, Pur SenChey, Phnom Penh Capital",,,,Chaom Chau 2,Pur SenChey,Phnom Penh Capital
+"#NA, St.NA, Angk  Kaev, Chaom Chau 3, Pur SenChey, Phnom Penh Capital",#NA,St.NA,Angk  Kaev,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"#B05, St.Petong, Prey Pring Khang Tboung 2, Chaom Chau 3, Pur SenChey, Phnom Penh Capital",#B05,St.Petong,Prey Pring Khang Tboung 2,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"#N/A, St.Betong, Prey Tea 1, Chaom Chau 3, Pur SenChey, Phnom Penh Capital",#N/A,St.Betong,Prey Tea 1,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"#859, St.Betong, Prey Tea 2, Chaom Chau 3, Pur SenChey, Phnom Penh Capital",#859,St.Betong,Prey Tea 2,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"St.6m, Prey Chi Sak, Chaom Chau 3, Pur SenChey, Phnom Penh Capital",,St.6m,Prey Chi Sak,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"#NA, St.NA, Chaom Chau 3, Pur SenChey, Phnom Penh Capital",#NA,St.NA,,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"#, St., Chaom Chau 3, Pur SenChey, Phnom Penh Capital",#,St.,,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"Trapeang Pou, Chaom Chau 3, Pur SenChey, Phnom Penh Capital",,,Trapeang Pou,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"#B27, Chaom Chau 3, Pur SenChey, Phnom Penh Capital",#B27,,,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"Chaom Chau 3, Pur SenChey, Phnom Penh Capital",,,,Chaom Chau 3,Pur SenChey,Phnom Penh Capital
+"Char, Char, Prey Kabbas, Takeo Province",,,Char,Char,Prey Kabbas,Takeo Province
+"Sla, Char, Prey Kabbas, Takeo Province",,,Sla,Char,Prey Kabbas,Takeo Province
+"#NA, St.201, Thnal, Char Chhuk, Angkor Chum, Siemreap Province",#NA,St.201,Thnal,Char Chhuk,Angkor Chum,Siemreap Province
+"Deum Slaeng, Chbar Ampov Ti Pir, Chbar Ampov, Phnom Penh Capital",,,Deum Slaeng,Chbar Ampov Ti Pir,Chbar Ampov,Phnom Penh Capital
+"Chbar Mon, Chbar Mon, Kampong Speu Province",,,,Chbar Mon,Chbar Mon,Kampong Speu Province
+"Bourei Kameakkar, Cheung Aek, Dangkao, Phnom Penh Capital",,,Bourei Kameakkar,Cheung Aek,Dangkao,Phnom Penh Capital
+"Preaek Thloeng, Cheung Aek, Dangkao, Phnom Penh Capital",,,Preaek Thloeng,Cheung Aek,Dangkao,Phnom Penh Capital
+"Cheung Aek, Dangkao, Phnom Penh Capital",,,,Cheung Aek,Dangkao,Phnom Penh Capital
+"#293, St.5, Cheung Kaeub, Kandal Stueng, Kandal Province",#293,St.5,,Cheung Kaeub,Kandal Stueng,Kandal Province
+"Cheung Kou, Prey Nob, Preah Sihanouk Province",,,,Cheung Kou,Prey Nob,Preah Sihanouk Province
+"Ou Loy, Cheung Kreav, Rolea B'ier, Kampong Chhnang Province",,,Ou Loy,Cheung Kreav,Rolea B'ier,Kampong Chhnang Province
+"Anhchanh, Cheung Kuon, Samraong, Takeo Province",,,Anhchanh,Cheung Kuon,Samraong,Takeo Province
+"Cheung Phnum, Ba Phnum, Prey Veng Province",,,,Cheung Phnum,Ba Phnum,Prey Veng Province
+"Cheung Prey, Cheung Prey, Batheay, Kampong Cham Province",,,Cheung Prey,Cheung Prey,Batheay,Kampong Cham Province
+"Lumphat, Chey Otdam, Lumphat, Ratanak Kiri Province",,,Lumphat,Chey Otdam,Lumphat,Ratanak Kiri Province
+"Chheu Kach, Chheu Kach, Ba Phnum, Prey Veng Province",,,Chheu Kach,Chheu Kach,Ba Phnum,Prey Veng Province
+"Chheu Teal, Kien Svay, Kandal Province",,,,Chheu Teal,Kien Svay,Kandal Province
+"Chheu Teal, Chhuk, Chhuk, Kampot Province",,,Chheu Teal,Chhuk,Chhuk,Kampot Province
+"Chhuk, Chhuk, Kampot Province",,,,Chhuk,Chhuk,Kampot Province
+"Chob Krau, Chob, Tboung Khmum, Tboung Khmum Province",,,Chob Krau,Chob,Tboung Khmum,Tboung Khmum Province
+"Chob Ti Pir, Chob, Tboung Khmum, Tboung Khmum Province",,,Chob Ti Pir,Chob,Tboung Khmum,Tboung Khmum Province
+"Chob Vari, Preah Netr Preah, Banteay Meanchey Province",,,,Chob Vari,Preah Netr Preah,Banteay Meanchey Province
+"St.530, Phkar Sla, Chomkar Somraong, Battambang, Battambang Province",,St.530,Phkar Sla,Chomkar Somraong,Battambang,Battambang Province
+"Chong Kal, Chong Kal, Oddar Meanchey Province",,,,Chong Kal,Chong Kal,Oddar Meanchey Province
+"Phum Ti Buon, Chong Khnies, Siem Reap, Siemreap Province",,,Phum Ti Buon,Chong Khnies,Siem Reap,Siemreap Province
+"Bat Sloek, Chrak Mtes, Bavet, Svay Rieng Province",,,Bat Sloek,Chrak Mtes,Bavet,Svay Rieng Province
+"#70D E0E1E2, St.352A, Phum 4, Chrang Chamreh Ti Muoy, Russey Keo, Phnom Penh Capital",#70D E0E1E2,St.352A,Phum 4,Chrang Chamreh Ti Muoy,Russey Keo,Phnom Penh Capital
+"Phum 4, Chrang Chamreh Ti Muoy, Russey Keo, Phnom Penh Capital",,,Phum 4,Chrang Chamreh Ti Muoy,Russey Keo,Phnom Penh Capital
+"Chrang Chamreh Ti Muoy, Russey Keo, Phnom Penh Capital",,,,Chrang Chamreh Ti Muoy,Russey Keo,Phnom Penh Capital
+"Phum Kha Muoy, Chrang Chamreh Ti Pir, Russey Keo, Phnom Penh Capital",,,Phum Kha Muoy,Chrang Chamreh Ti Pir,Russey Keo,Phnom Penh Capital
+"Chrang Chamreh Ti Pir, Russey Keo, Phnom Penh Capital",,,,Chrang Chamreh Ti Pir,Russey Keo,Phnom Penh Capital
+"#, St., Boeng, Chreav, Siem Reap, Siemreap Province",#,St.,Boeng,Chreav,Siem Reap,Siemreap Province
+"#, St., Chreav, Chreav, Siem Reap, Siemreap Province",#,St.,Chreav,Chreav,Siem Reap,Siemreap Province
+"#, St., Chreav, Siem Reap, Siemreap Province",#,St.,,Chreav,Siem Reap,Siemreap Province
+"Chreav, Chreav, Siem Reap, Siemreap Province",,,Chreav,Chreav,Siem Reap,Siemreap Province
+"Khnar, Chreav, Siem Reap, Siemreap Province",,,Khnar,Chreav,Siem Reap,Siemreap Province
+"Chreav, Siem Reap, Siemreap Province",,,,Chreav,Siem Reap,Siemreap Province
+"Chrey, Thma Koul, Battambang Province",,,,Chrey,Thma Koul,Battambang Province
+"Chrey Bak, Rolea B'ier, Kampong Chhnang Province",,,,Chrey Bak,Rolea B'ier,Kampong Chhnang Province
+"Chrey Vien, Prey Chhor, Kampong Cham Province",,,,Chrey Vien,Prey Chhor,Kampong Cham Province
+"St.N.6, Chroab, Santuk, Kampong Thom Province",,St.N.6,,Chroab,Santuk,Kampong Thom Province
+"#107A, St.keo chinda, Chrouy Changvar, Chraoy Chongvar, Phnom Penh Capital",#107A,St.keo chinda,,Chrouy Changvar,Chraoy Chongvar,Phnom Penh Capital
+"#1, Phum 3, Chrouy Changvar, Chraoy Chongvar, Phnom Penh Capital",#1,,Phum 3,Chrouy Changvar,Chraoy Chongvar,Phnom Penh Capital
+"Chrouy Changvar, Chraoy Chongvar, Phnom Penh Capital",,,,Chrouy Changvar,Chraoy Chongvar,Phnom Penh Capital
+"St.33, Trapeang Thum, Chum Kriel, Tuek Chhou, Kampot Province",,St.33,Trapeang Thum,Chum Kriel,Tuek Chhou,Kampot Province
+"#, St., Trach Khpos, Chumpu Proeks, Odongk, Kampong Speu Province",#,St.,Trach Khpos,Chumpu Proeks,Odongk,Kampong Speu Province
+"Ta Koch, Daeum Rues, Kandal Stueng, Kandal Province",,,Ta Koch,Daeum Rues,Kandal Stueng,Kandal Province
+"Pou, Damnak Reang, Odongk, Kampong Speu Province",,,Pou,Damnak Reang,Odongk,Kampong Speu Province
+"St.National Road N6, Ballangk  Kaeut, Damrei Choan Khla, Stueng Saen, Kampong Thom Province",,St.National Road N6,Ballangk  Kaeut,Damrei Choan Khla,Stueng Saen,Kampong Thom Province
+"St.National Road N6, Ballangk Lech, Damrei Choan Khla, Stueng Saen, Kampong Thom Province",,St.National Road N6,Ballangk Lech,Damrei Choan Khla,Stueng Saen,Kampong Thom Province
+"Pou Bak Ka, Damrei Choan Khla, Stueng Saen, Kampong Thom Province",,,Pou Bak Ka,Damrei Choan Khla,Stueng Saen,Kampong Thom Province
+"#20B, St.Betong, Mol, Dangkao, Dangkao, Phnom Penh Capital",#20B,St.Betong,Mol,Dangkao,Dangkao,Phnom Penh Capital
+"#35, St.03, Mol, Dangkao, Dangkao, Phnom Penh Capital",#35,St.03,Mol,Dangkao,Dangkao,Phnom Penh Capital
+"#08E, St.03A, Mol, Dangkao, Dangkao, Phnom Penh Capital",#08E,St.03A,Mol,Dangkao,Dangkao,Phnom Penh Capital
+"#194B, St.8B, Mol, Dangkao, Dangkao, Phnom Penh Capital",#194B,St.8B,Mol,Dangkao,Dangkao,Phnom Penh Capital
+"#08E, St.3A, Mol, Dangkao, Dangkao, Phnom Penh Capital",#08E,St.3A,Mol,Dangkao,Dangkao,Phnom Penh Capital
+"#02c, St.25 E0, Sambuor, Dangkao, Dangkao, Phnom Penh Capital",#02c,St.25 E0,Sambuor,Dangkao,Dangkao,Phnom Penh Capital
+"#10BE0, St.Betong, Sambuor, Dangkao, Dangkao, Phnom Penh Capital",#10BE0,St.Betong,Sambuor,Dangkao,Dangkao,Phnom Penh Capital
+"#114E0, St.01, Sambuor, Dangkao, Dangkao, Phnom Penh Capital",#114E0,St.01,Sambuor,Dangkao,Dangkao,Phnom Penh Capital
+"#25D, St.06, Sambuor, Dangkao, Dangkao, Phnom Penh Capital",#25D,St.06,Sambuor,Dangkao,Dangkao,Phnom Penh Capital
+"#D-31, St.06, Sambuor, Dangkao, Dangkao, Phnom Penh Capital",#D-31,St.06,Sambuor,Dangkao,Dangkao,Phnom Penh Capital
+"#45Eo, St.Betong, Sambuor, Dangkao, Dangkao, Phnom Penh Capital",#45Eo,St.Betong,Sambuor,Dangkao,Dangkao,Phnom Penh Capital
+"#11AE0, St.BT, Sambuor, Dangkao, Dangkao, Phnom Penh Capital",#11AE0,St.BT,Sambuor,Dangkao,Dangkao,Phnom Penh Capital
+"#04E, St.08, Sambuor, Dangkao, Dangkao, Phnom Penh Capital",#04E,St.08,Sambuor,Dangkao,Dangkao,Phnom Penh Capital
+"#None, St.None, Thmei, Dangkao, Dangkao, Phnom Penh Capital",#None,St.None,Thmei,Dangkao,Dangkao,Phnom Penh Capital
+"#, St., Dangkao, Dangkao, Phnom Penh Capital",#,St.,,Dangkao,Dangkao,Phnom Penh Capital
+"#22, St.09, Dangkao, Dangkao, Phnom Penh Capital",#22,St.09,,Dangkao,Dangkao,Phnom Penh Capital
+"Khva, Dangkao, Dangkao, Phnom Penh Capital",,,Khva,Dangkao,Dangkao,Phnom Penh Capital
+"Mol, Dangkao, Dangkao, Phnom Penh Capital",,,Mol,Dangkao,Dangkao,Phnom Penh Capital
+"Sambuor, Dangkao, Dangkao, Phnom Penh Capital",,,Sambuor,Dangkao,Dangkao,Phnom Penh Capital
+"Dangkao, Dangkao, Phnom Penh Capital",,,,Dangkao,Dangkao,Phnom Penh Capital
+"St.NR7, Dar, Memot, Tboung Khmum Province",,St.NR7,,Dar,Memot,Tboung Khmum Province
+"Dei Edth Kaoh Phos, Dei Edth, Kien Svay, Kandal Province",,,Dei Edth Kaoh Phos,Dei Edth,Kien Svay,Kandal Province
+"Doeum Mien, Ta Khmau, Kandal Province",,,,Doeum Mien,Ta Khmau,Kandal Province
+"#N/A, St.PR222, Krouch Saeuch, Hanchey, Kampong Siem, Kampong Cham Province",#N/A,St.PR222,Krouch Saeuch,Hanchey,Kampong Siem,Kampong Cham Province
+"Kaeng Sann, Ka Laeng, Lumphat, Ratanak Kiri Province",,,Kaeng Sann,Ka Laeng,Lumphat,Ratanak Kiri Province
+"Kaev Krasang, Kaeb, Kaeb, Kep Province",,,Kaev Krasang,Kaeb,Kaeb,Kep Province
+"Kaeb, Kaeb, Kep Province",,,,Kaeb,Kaeb,Kep Province
+"#, St., Kouk Ruessei, Kaev Poar, Puok, Siemreap Province",#,St.,Kouk Ruessei,Kaev Poar,Puok,Siemreap Province
+"#168A, Ta Nguon 2, Kakab 1, Pur SenChey, Phnom Penh Capital",#168A,,Ta Nguon 2,Kakab 1,Pur SenChey,Phnom Penh Capital
+"#, St., Kakab 1, Pur SenChey, Phnom Penh Capital",#,St.,,Kakab 1,Pur SenChey,Phnom Penh Capital
+"Kakab 1, Pur SenChey, Phnom Penh Capital",,,,Kakab 1,Pur SenChey,Phnom Penh Capital
+"#NA, St.NA, Kakab, Kakab 2, Pur SenChey, Phnom Penh Capital",#NA,St.NA,Kakab,Kakab 2,Pur SenChey,Phnom Penh Capital
+"#Vacant Land, St.Street Concrete, Kakab 2, Pur SenChey, Phnom Penh Capital",#Vacant Land,St.Street Concrete,,Kakab 2,Pur SenChey,Phnom Penh Capital
+"Kbal Damrei 2, Kakab 2, Pur SenChey, Phnom Penh Capital",,,Kbal Damrei 2,Kakab 2,Pur SenChey,Phnom Penh Capital
+"Prey Sala, Kakab 2, Pur SenChey, Phnom Penh Capital",,,Prey Sala,Kakab 2,Pur SenChey,Phnom Penh Capital
+"St.8m, Kakab 2, Pur SenChey, Phnom Penh Capital",,St.8m,,Kakab 2,Pur SenChey,Phnom Penh Capital
+"Kakab 2, Pur SenChey, Phnom Penh Capital",,,,Kakab 2,Pur SenChey,Phnom Penh Capital
+"Sala Santuk, Kakaoh, Santuk, Kampong Thom Province",,,Sala Santuk,Kakaoh,Santuk,Kampong Thom Province
+"#39, St.14, Kamboul, Kamboul, Kamboul, Phnom Penh Capital",#39,St.14,Kamboul,Kamboul,Kamboul,Phnom Penh Capital
+"#17, St.09A, Kamboul, Kamboul, Kamboul, Phnom Penh Capital",#17,St.09A,Kamboul,Kamboul,Kamboul,Phnom Penh Capital
+"#E25, St.Betong, Tuol Ta Lat, Kamboul, Kamboul, Phnom Penh Capital",#E25,St.Betong,Tuol Ta Lat,Kamboul,Kamboul,Phnom Penh Capital
+"#H24, St.0, Tuol Ta Lat, Kamboul, Kamboul, Phnom Penh Capital",#H24,St.0,Tuol Ta Lat,Kamboul,Kamboul,Phnom Penh Capital
+"#25, St.9A, Kamboul, Kamboul, Phnom Penh Capital",#25,St.9A,,Kamboul,Kamboul,Phnom Penh Capital
+"Ta Sek, Kamboul, Kamboul, Phnom Penh Capital",,,Ta Sek,Kamboul,Kamboul,Phnom Penh Capital
+"Kamboul, Kamboul, Phnom Penh Capital",,,,Kamboul,Kamboul,Phnom Penh Capital
+"A Chen, Kampong Cham, Sambour, Kratie Province",,,A Chen,Kampong Cham,Sambour,Kratie Province
+"Kampong Chen Tboung, Stoung, Kampong Thom Province",,,,Kampong Chen Tboung,Stoung,Kampong Thom Province
+"Tuol Kralanh, Kampong Chhnang, Kampong Chhnang, Kampong Chhnang Province",,,Tuol Kralanh,Kampong Chhnang,Kampong Chhnang,Kampong Chhnang Province
+"Stueng Saen, Kampong Krabau, Stueng Saen, Kampong Thom Province",,,Stueng Saen,Kampong Krabau,Stueng Saen,Kampong Thom Province
+"Kampong Kraeng, Tuek Chhou, Kampot Province",,,,Kampong Kraeng,Tuek Chhou,Kampot Province
+"#0, St.0, Lekh Pir, Kampong Leav, Prey Veng, Prey Veng Province",#0,St.0,Lekh Pir,Kampong Leav,Prey Veng,Prey Veng Province
+"Khleang Sbaek, Kampong Luong, Ponhea Lueu, Kandal Province",,,Khleang Sbaek,Kampong Luong,Ponhea Lueu,Kandal Province
+"#, St., La Edth, Kampong Pranak, Preah Vihear, Preah Vihear Province",#,St.,La Edth,Kampong Pranak,Preah Vihear,Preah Vihear Province
+"St.05, Kbal Thnal, Kampong Preah, Sangkae, Battambang Province",,St.05,Kbal Thnal,Kampong Preah,Sangkae,Battambang Province
+"St.05, Kbal Thnal, Kampong Prieng, Sangkae, Battambang Province",,St.05,Kbal Thnal,Kampong Prieng,Sangkae,Battambang Province
+"#, St., Kampong Samnanh, Ta Khmau, Kandal Province",#,St.,,Kampong Samnanh,Ta Khmau,Kandal Province
+"#, St., Kampong Soeng, Preah Sdach, Prey Veng Province",#,St.,,Kampong Soeng,Preah Sdach,Prey Veng Province
+"St.9, Souphi, Kampong Svay, Serei Saophoan, Banteay Meanchey Province",,St.9,Souphi,Kampong Svay,Serei Saophoan,Banteay Meanchey Province
+"#, St., Dour Dantrei, Kampong Thkov, Kralanh, Siemreap Province",#,St.,Dour Dantrei,Kampong Thkov,Kralanh,Siemreap Province
+"#, St., Chrey, Kandaek, Prasat Bakong, Siemreap Province",#,St.,Chrey,Kandaek,Prasat Bakong,Siemreap Province
+"#, St., L'ak, Kandaek, Prasat Bakong, Siemreap Province",#,St.,L'ak,Kandaek,Prasat Bakong,Siemreap Province
+"#n/a, St.n/a, Kandaek, Prasat Bakong, Siemreap Province",#n/a,St.n/a,,Kandaek,Prasat Bakong,Siemreap Province
+"Chres, Kandaek, Prasat Bakong, Siemreap Province",,,Chres,Kandaek,Prasat Bakong,Siemreap Province
+"Chrey, Kandaek, Prasat Bakong, Siemreap Province",,,Chrey,Kandaek,Prasat Bakong,Siemreap Province
+"Kouk Thlok, Kandaek, Prasat Bakong, Siemreap Province",,,Kouk Thlok,Kandaek,Prasat Bakong,Siemreap Province
+"Kouk Tnaot, Kandaek, Prasat Bakong, Siemreap Province",,,Kouk Tnaot,Kandaek,Prasat Bakong,Siemreap Province
+"L'ak, Kandaek, Prasat Bakong, Siemreap Province",,,L'ak,Kandaek,Prasat Bakong,Siemreap Province
+"Trang, Kandaek, Prasat Bakong, Siemreap Province",,,Trang,Kandaek,Prasat Bakong,Siemreap Province
+"Damnak Trach, Kandaol, Tuek Chhou, Kampot Province",,,Damnak Trach,Kandaol,Tuek Chhou,Kampot Province
+"St.road 123, Haknuman, Kandoeng, Bati, Takeo Province",,St.road 123,Haknuman,Kandoeng,Bati,Takeo Province
+"Kanhcham Khor, Kanhcham, Pea Reang, Prey Veng Province",,,Kanhcham Khor,Kanhcham,Pea Reang,Prey Veng Province
+"#45E, St.1, Kol, Kantaok, Kamboul, Phnom Penh Capital",#45E,St.1,Kol,Kantaok,Kamboul,Phnom Penh Capital
+"#48c, St.St02, Kol, Kantaok, Kamboul, Phnom Penh Capital",#48c,St.St02,Kol,Kantaok,Kamboul,Phnom Penh Capital
+"#01E0, St.09, Trapeang Kol, Kantaok, Kamboul, Phnom Penh Capital",#01E0,St.09,Trapeang Kol,Kantaok,Kamboul,Phnom Penh Capital
+"#46, St.03, Trapeang Kol, Kantaok, Kamboul, Phnom Penh Capital",#46,St.03,Trapeang Kol,Kantaok,Kamboul,Phnom Penh Capital
+"Kantaok Cheung, Kantaok, Kamboul, Phnom Penh Capital",,,Kantaok Cheung,Kantaok,Kamboul,Phnom Penh Capital
+"Kantaok Tboung, Kantaok, Kamboul, Phnom Penh Capital",,,Kantaok Tboung,Kantaok,Kamboul,Phnom Penh Capital
+"Tram Sloek, Kantaok, Kamboul, Phnom Penh Capital",,,Tram Sloek,Kantaok,Kamboul,Phnom Penh Capital
+"Kantaok, Kamboul, Phnom Penh Capital",,,,Kantaok,Kamboul,Phnom Penh Capital
+"Kantreang, Kantreang, Prasat Bakong, Siemreap Province",,,Kantreang,Kantreang,Prasat Bakong,Siemreap Province
+"Sret Khang Kaeut, Kantreang, Prasat Bakong, Siemreap Province",,,Sret Khang Kaeut,Kantreang,Prasat Bakong,Siemreap Province
+"Trapeang Thnal, Kantreang, Prasat Bakong, Siemreap Province",,,Trapeang Thnal,Kantreang,Prasat Bakong,Siemreap Province
+"Kantreang, Prasat Bakong, Siemreap Province",,,,Kantreang,Prasat Bakong,Siemreap Province
+"St.#7, Chrava, Kantuot, Chetr Borei, Kratie Province",,St.#7,Chrava,Kantuot,Chetr Borei,Kratie Province
+"#NA, St.NA, Kaoh Peam Reang, Kaoh Chek, Peam Chor, Prey Veng Province",#NA,St.NA,Kaoh Peam Reang,Kaoh Chek,Peam Chor,Prey Veng Province
+"Svay Chuor, Kaoh Khael, S'ang, Kandal Province",,,Svay Chuor,Kaoh Khael,S'ang,Kandal Province
+"Kaoh Reah Leu, Kaoh Reah, Lvea Aem, Kandal Province",,,Kaoh Reah Leu,Kaoh Reah,Lvea Aem,Kandal Province
+"#, St., Kaoh Roka, Peam Chor, Prey Veng Province",#,St.,,Kaoh Roka,Peam Chor,Prey Veng Province
+"Kaoh Rung, Kaoh Rung, Preah Sihanouk Province",,,,Kaoh Rung,Kaoh Rung,Preah Sihanouk Province
+"Kbal Romeas, Sesan, Stung Treng Province",,,,Kbal Romeas,Sesan,Stung Treng Province
+"St., Kandal, Kbal Trach, Krakor, Pursat Province",,St.,Kandal,Kbal Trach,Krakor,Pursat Province
+"Kandal, Kbal Trach, Krakor, Pursat Province",,,Kandal,Kbal Trach,Krakor,Pursat Province
+"Samraong, Kbal Trach, Krakor, Pursat Province",,,Samraong,Kbal Trach,Krakor,Pursat Province
+"Trapeang Rumdenh, Kbal Trach, Krakor, Pursat Province",,,Trapeang Rumdenh,Kbal Trach,Krakor,Pursat Province
+"Krasang Doh Laeung, Kbal Tuek, Tuek Phos, Kampong Chhnang Province",,,Krasang Doh Laeung,Kbal Tuek,Tuek Phos,Kampong Chhnang Province
+"Thnal Kaeng, Kbal Tuek, Tuek Phos, Kampong Chhnang Province",,,Thnal Kaeng,Kbal Tuek,Tuek Phos,Kampong Chhnang Province
+"Kbal Tuek, Tuek Phos, Kampong Chhnang Province",,,,Kbal Tuek,Tuek Phos,Kampong Chhnang Province
+"Kdei Doung, Kampong Svay, Kampong Thom Province",,,,Kdei Doung,Kampong Svay,Kampong Thom Province
+"St.1701, Ta Koy, Kdol Doun Teav, Battambang, Battambang Province",,St.1701,Ta Koy,Kdol Doun Teav,Battambang,Battambang Province
+"Kboun, Khchas, Soutr Nikom, Siemreap Province",,,Kboun,Khchas,Soutr Nikom,Siemreap Province
+"Banla S'et, Khmuonh, Saensokh, Phnom Penh Capital",,,Banla S'et,Khmuonh,Saensokh,Phnom Penh Capital
+"Khmuonh, Saensokh, Phnom Penh Capital",,,,Khmuonh,Saensokh,Phnom Penh Capital
+"Khnar Pou, Soutr Nikom, Siemreap Province",,,,Khnar Pou,Soutr Nikom,Siemreap Province
+"Kaoh Krabei, Khnar Totueng, Bakan, Pursat Province",,,Kaoh Krabei,Khnar Totueng,Bakan,Pursat Province
+"Kaoh Svay, Khnar Totueng, Bakan, Pursat Province",,,Kaoh Svay,Khnar Totueng,Bakan,Pursat Province
+"Kaoh Voat, Khnar Totueng, Ta Lou Senchey, Pursat Province",,,Kaoh Voat,Khnar Totueng,Ta Lou Senchey,Pursat Province
+"Khnat, Khnat, Puok, Siemreap Province",,,Khnat,Khnat,Puok,Siemreap Province
+"Khsam, Kampong Chhnang, Kampong Chhnang Province",,,,Khsam,Kampong Chhnang,Kampong Chhnang Province
+"St.National Road 1440, Kakab, Khsem Khsant, Odongk, Kampong Speu Province",,St.National Road 1440,Kakab,Khsem Khsant,Odongk,Kampong Speu Province
+"St.Risedent Road, Kakab, Khsem Khsant, Odongk, Kampong Speu Province",,St.Risedent Road,Kakab,Khsem Khsant,Odongk,Kampong Speu Province
+"#0, St.0, Khsem Khsant, Odongk, Kampong Speu Province",#0,St.0,,Khsem Khsant,Odongk,Kampong Speu Province
+"Kakab, Khsem Khsant, Odongk, Kampong Speu Province",,,Kakab,Khsem Khsant,Odongk,Kampong Speu Province
+"Khsem Khsant, Odongk, Kampong Speu Province",,,,Khsem Khsant,Odongk,Kampong Speu Province
+"Samrang, Khsuem, Snuol, Kratie Province",,,Samrang,Khsuem,Snuol,Kratie Province
+"Khvan, Khtum Krang, Samraong Tong, Kampong Speu Province",,,Khvan,Khtum Krang,Samraong Tong,Kampong Speu Province
+"Khun Ream, Banteay Srei, Siemreap Province",,,,Khun Ream,Banteay Srei,Siemreap Province
+"Kilomaetr Lekh Prammuoy, Russey Keo, Phnom Penh Capital",,,,Kilomaetr Lekh Prammuoy,Russey Keo,Phnom Penh Capital
+"#NA, St.St Betong, Phsar Trapeang Kraloeng, Kiri Voan, Phnum Sruoch, Kampong Speu Province",#NA,St.St Betong,Phsar Trapeang Kraloeng,Kiri Voan,Phnum Sruoch,Kampong Speu Province
+"Phsar Trapeang Kraloeng, Kiri Voan, Phnum Sruoch, Kampong Speu Province",,,Phsar Trapeang Kraloeng,Kiri Voan,Phnum Sruoch,Kampong Speu Province
+"Kok Chak, Siem Reap, Siemreap Province",,,,Kok Chak,Siem Reap,Siemreap Province
+"Chanlak, Kokir, Kien Svay, Kandal Province",,,Chanlak,Kokir,Kien Svay,Kandal Province
+"#B6, St.Betong, Kokir Thum, Kokir Thum, Kien Svay, Kandal Province",#B6,St.Betong,Kokir Thum,Kokir Thum,Kien Svay,Kandal Province
+"Komar Reachea, Bati, Takeo Province",,,,Komar Reachea,Bati,Takeo Province
+"Kong Noy, Kong Noy, Dangkao, Phnom Penh Capital",,,Kong Noy,Kong Noy,Dangkao,Phnom Penh Capital
+"Serei Sambatt, Kong Noy, Dangkao, Phnom Penh Capital",,,Serei Sambatt,Kong Noy,Dangkao,Phnom Penh Capital
+"Kong Noy, Dangkao, Phnom Penh Capital",,,,Kong Noy,Dangkao,Phnom Penh Capital
+"Popel Pok, Kouk Banteay, Rolea B'ier, Kampong Chhnang Province",,,Popel Pok,Kouk Banteay,Rolea B'ier,Kampong Chhnang Province
+"St.42P, Roung Chakr, Kouk Khleang, Saensokh, Phnom Penh Capital",,St.42P,Roung Chakr,Kouk Khleang,Saensokh,Phnom Penh Capital
+"Damnak, Kouk Khleang, Saensokh, Phnom Penh Capital",,,Damnak,Kouk Khleang,Saensokh,Phnom Penh Capital
+"Kouk Khleang, Saensokh, Phnom Penh Capital",,,,Kouk Khleang,Saensokh,Phnom Penh Capital
+"#F28, St.BY, Khmer Leu, Kouk Roka, Praek Pnov, Phnom Penh Capital",#F28,St.BY,Khmer Leu,Kouk Roka,Praek Pnov,Phnom Penh Capital
+"#100E1E2, St.C, Phlu Ph'aem, Kouk Roka, Praek Pnov, Phnom Penh Capital",#100E1E2,St.C,Phlu Ph'aem,Kouk Roka,Praek Pnov,Phnom Penh Capital
+"Kouk Roka, Praek Pnov, Phnom Penh Capital",,,,Kouk Roka,Praek Pnov,Phnom Penh Capital
+"#, St., Krabau, Kamchay Mear, Prey Veng Province",#,St.,,Krabau,Kamchay Mear,Prey Veng Province
+"St.#73, Trapeang Pring, Kracheh, Kracheh, Kratie Province",,St.#73,Trapeang Pring,Kracheh,Kracheh,Kratie Province
+"Kracheh, Kracheh, Kracheh, Kratie Province",,,Kracheh,Kracheh,Kracheh,Kratie Province
+"Bos Lveae, Kraek, Ponhea Kraek, Tboung Khmum Province",,,Bos Lveae,Kraek,Ponhea Kraek,Tboung Khmum Province
+"#_, St.Lom, Vimean Trong, Krang Thnong, Saensokh, Phnom Penh Capital",#_,St.Lom,Vimean Trong,Krang Thnong,Saensokh,Phnom Penh Capital
+"Krang Angkrang, Krang Thnong, Saensokh, Phnom Penh Capital",,,Krang Angkrang,Krang Thnong,Saensokh,Phnom Penh Capital
+"Prey Khla, Krang Thnong, Saensokh, Phnom Penh Capital",,,Prey Khla,Krang Thnong,Saensokh,Phnom Penh Capital
+"Tbaeng, Krang Thnong, Bati, Takeo Province",,,Tbaeng,Krang Thnong,Bati,Takeo Province
+"Trapeang Cheung Srok, Krang Thnong, Saensokh, Phnom Penh Capital",,,Trapeang Cheung Srok,Krang Thnong,Saensokh,Phnom Penh Capital
+"Vimean Trong, Krang Thnong, Saensokh, Phnom Penh Capital",,,Vimean Trong,Krang Thnong,Saensokh,Phnom Penh Capital
+"Krang Thnong, Saensokh, Phnom Penh Capital",,,,Krang Thnong,Saensokh,Phnom Penh Capital
+"Krang Thnong, Bati, Takeo Province",,,,Krang Thnong,Bati,Takeo Province
+"Kandal, Kranhung, Kamchay Mear, Prey Veng Province",,,Kandal,Kranhung,Kamchay Mear,Prey Veng Province
+"#N/A, St., Phsar Thmei, Kumru, Thma Puok, Banteay Meanchey Province",#N/A,St.,Phsar Thmei,Kumru,Thma Puok,Banteay Meanchey Province
+"Ta Leak Khang Cheung, Kus, Tram Kak, Takeo Province",,,Ta Leak Khang Cheung,Kus,Tram Kak,Takeo Province
+"Trapeang Pring, Kus, Tram Kak, Takeo Province",,,Trapeang Pring,Kus,Tram Kak,Takeo Province
+"St., Kus, Tram Kak, Takeo Province",,St.,,Kus,Tram Kak,Takeo Province
+"Ou Romeat, Labansiek, Ban Lung, Ratanak Kiri Province",,,Ou Romeat,Labansiek,Ban Lung,Ratanak Kiri Province
+"Pech Ban, Leach, Phnum Kravanh, Pursat Province",,,Pech Ban,Leach,Phnum Kravanh,Pursat Province
+"#, St., Leang Dai, Leang Dai, Angkor Thum, Siemreap Province",#,St.,Leang Dai,Leang Dai,Angkor Thum,Siemreap Province
+"#, St., Samraong, Leang Dai, Angkor Thum, Siemreap Province",#,St.,Samraong,Leang Dai,Angkor Thum,Siemreap Province
+"#712A95, Phum Pir, lek Muoy, Preah Sihanouk, Preah Sihanouk Province",#712A95,,Phum Pir,lek Muoy,Preah Sihanouk,Preah Sihanouk Province
+"Phum Muoy, lek Muoy, Preah Sihanouk, Preah Sihanouk Province",,,Phum Muoy,lek Muoy,Preah Sihanouk,Preah Sihanouk Province
+"Phum Pir, lek Muoy, Preah Sihanouk, Preah Sihanouk Province",,,Phum Pir,lek Muoy,Preah Sihanouk,Preah Sihanouk Province
+"lek Muoy, Preah Sihanouk, Preah Sihanouk Province",,,,lek Muoy,Preah Sihanouk,Preah Sihanouk Province
+"Phsar Trach, Longveaek, Kampong Tralach, Kampong Chhnang Province",,,Phsar Trach,Longveaek,Kampong Tralach,Kampong Chhnang Province
+"Trapeang Samraong, Longveaek, Kampong Tralach, Kampong Chhnang Province",,,Trapeang Samraong,Longveaek,Kampong Tralach,Kampong Chhnang Province
+"St., Lumchang, Lumchang, Samraong, Takeo Province",,St.,Lumchang,Lumchang,Samraong,Takeo Province
+"Kandal, Lumpong, Bati, Takeo Province",,,Kandal,Lumpong,Bati,Takeo Province
+"#, St.59, Thmei, Malai, Malai, Banteay Meanchey Province",#,St.59,Thmei,Malai,Malai,Banteay Meanchey Province
+"#, St., Veal Hat, Malai, Malai, Banteay Meanchey Province",#,St.,Veal Hat,Malai,Malai,Banteay Meanchey Province
+"#, St.59, Malai, Malai, Banteay Meanchey Province",#,St.59,,Malai,Malai,Banteay Meanchey Province
+"Prey Kao, Me Pring, Batheay, Kampong Cham Province",,,Prey Kao,Me Pring,Batheay,Kampong Cham Province
+"Banteay Ruessei, Mean Chey, Prasat Bakong, Siemreap Province",,,Banteay Ruessei,Mean Chey,Prasat Bakong,Siemreap Province
+"Doun Num, Mean Chey, Prasat Bakong, Siemreap Province",,,Doun Num,Mean Chey,Prasat Bakong,Siemreap Province
+"St.NR7, Chi Peh, Memot, Memot, Tboung Khmum Province",,St.NR7,Chi Peh,Memot,Memot,Tboung Khmum Province
+"St.NR7, Memot, Memot, Tboung Khmum Province",,St.NR7,,Memot,Memot,Tboung Khmum Province
+"Mittapheap, Prampir Meakkakra, Phnom Penh Capital",,,,Mittapheap,Prampir Meakkakra,Phnom Penh Capital
+"Pu Tang, Monourom, Saen Monourom, Mondul Kiri Province",,,Pu Tang,Monourom,Saen Monourom,Mondul Kiri Province
+"Monourom, Thpong, Kampong Speu Province",,,,Monourom,Thpong,Kampong Speu Province
+"Monourom, Saen Monourom, Mondul Kiri Province",,,,Monourom,Saen Monourom,Mondul Kiri Province
+"#, St., Preaek Thum, Neak Loeang, Peam Ro, Prey Veng Province",#,St.,Preaek Thum,Neak Loeang,Peam Ro,Prey Veng Province
+"St.310, Preaek Thum, Neak Loeang, Peam Ro, Prey Veng Province",,St.310,Preaek Thum,Neak Loeang,Peam Ro,Prey Veng Province
+"#, St., Neak Loeang, Peam Ro, Prey Veng Province",#,St.,,Neak Loeang,Peam Ro,Prey Veng Province
+"St.Road31, Slaeng Kaong, Nhaeng Nhang, Tram Kak, Takeo Province",,St.Road31,Slaeng Kaong,Nhaeng Nhang,Tram Kak,Takeo Province
+"Nimitt Pir, Nimitt, Paoy Paet, Banteay Meanchey Province",,,Nimitt Pir,Nimitt,Paoy Paet,Banteay Meanchey Province
+"#50, St.Polaris, Boeng Chhuk, Nirouth, Chbar Ampov, Phnom Penh Capital",#50,St.Polaris,Boeng Chhuk,Nirouth,Chbar Ampov,Phnom Penh Capital
+"#4c, Ta Ngov, Nirouth, Chbar Ampov, Phnom Penh Capital",#4c,,Ta Ngov,Nirouth,Chbar Ampov,Phnom Penh Capital
+"#, St., Nirouth, Chbar Ampov, Phnom Penh Capital",#,St.,,Nirouth,Chbar Ampov,Phnom Penh Capital
+"Boeng Chhuk, Nirouth, Chbar Ampov, Phnom Penh Capital",,,Boeng Chhuk,Nirouth,Chbar Ampov,Phnom Penh Capital
+"Ruessei Sras, Nirouth, Chbar Ampov, Phnom Penh Capital",,,Ruessei Sras,Nirouth,Chbar Ampov,Phnom Penh Capital
+"Ta Ngov Kandal, Nirouth, Chbar Ampov, Phnom Penh Capital",,,Ta Ngov Kandal,Nirouth,Chbar Ampov,Phnom Penh Capital
+"Nirouth, Chbar Ampov, Phnom Penh Capital",,,,Nirouth,Chbar Ampov,Phnom Penh Capital
+"#, St., Anhchanh, Nokor Thum, Siem Reap, Siemreap Province",#,St.,Anhchanh,Nokor Thum,Siem Reap,Siemreap Province
+"Treang, Nokor Thum, Siem Reap, Siemreap Province",,,Treang,Nokor Thum,Siem Reap,Siemreap Province
+"Balat, Norea, Sangkae, Battambang Province",,,Balat,Norea,Sangkae,Battambang Province
+"Andoung Pring, OMal, Battambang, Battambang Province",,,Andoung Pring,OMal,Battambang,Battambang Province
+"#6, St.Nakri, Trong Moan, Ou Baek K'am, Saensokh, Phnom Penh Capital",#6,St.Nakri,Trong Moan,Ou Baek K'am,Saensokh,Phnom Penh Capital
+"Orchide, Ou Baek K'am, Saensokh, Phnom Penh Capital",,,Orchide,Ou Baek K'am,Saensokh,Phnom Penh Capital
+"Ou Baek K'am, Saensokh, Phnom Penh Capital",,,,Ou Baek K'am,Saensokh,Phnom Penh Capital
+"#, St.700 Krovat Krong, Ang, Ou Char, Battambang, Battambang Province",#,St.700 Krovat Krong,Ang,Ou Char,Battambang,Battambang Province
+"St.409, Ang, Ou Char, Battambang, Battambang Province",,St.409,Ang,Ou Char,Battambang,Battambang Province
+"Ang, Ou Char, Battambang, Battambang Province",,,Ang,Ou Char,Battambang,Battambang Province
+"Ou Char, Battambang, Battambang Province",,,,Ou Char,Battambang,Battambang Province
+"St.05 New, Ou Dambang Pir, Sangkae, Battambang Province",,St.05 New,,Ou Dambang Pir,Sangkae,Battambang Province
+"#N/A, St.N/A, Ou Krasar, Kaeb, Kep Province",#N/A,St.N/A,,Ou Krasar,Kaeb,Kep Province
+"Damnak Chambak, Ou Krasar, Kaeb, Kep Province",,,Damnak Chambak,Ou Krasar,Kaeb,Kep Province
+"Ou Ruessei Ti Muoy, Ou Ruessei, Kracheh, Kratie Province",,,Ou Ruessei Ti Muoy,Ou Ruessei,Kracheh,Kratie Province
+"Ou Ruessei Ti Pir, Ou Ruessei, Kracheh, Kratie Province",,,Ou Ruessei Ti Pir,Ou Ruessei,Kracheh,Kratie Province
+"Srae Sdau, Ou Ruessei, Kracheh, Kratie Province",,,Srae Sdau,Ou Ruessei,Kracheh,Kratie Province
+"#4 E1, St.161, Phum 2, Ou Ruessei Ti Pir, Prampir Meakkakra, Phnom Penh Capital",#4 E1,St.161,Phum 2,Ou Ruessei Ti Pir,Prampir Meakkakra,Phnom Penh Capital
+"Phum 8, Ou Ruessei Ti Pir, Prampir Meakkakra, Phnom Penh Capital",,,Phum 8,Ou Ruessei Ti Pir,Prampir Meakkakra,Phnom Penh Capital
+"Ou Ruessei Ti Pir, Prampir Meakkakra, Phnom Penh Capital",,,,Ou Ruessei Ti Pir,Prampir Meakkakra,Phnom Penh Capital
+"Ou Ach Kok, Ou Sandan, Krakor, Pursat Province",,,Ou Ach Kok,Ou Sandan,Krakor,Pursat Province
+"St.LUM, Ruessei Muoy Kump, Ou Saray, Tram Kak, Takeo Province",,St.LUM,Ruessei Muoy Kump,Ou Saray,Tram Kak,Takeo Province
+"St.Betong, Ruessei Muoy Kump, Ou Saray, Tram Kak, Takeo Province",,St.Betong,Ruessei Muoy Kump,Ou Saray,Tram Kak,Takeo Province
+"#C13, St.Betung, Trapeang Areaks, Ovlaok, Kamboul, Phnom Penh Capital",#C13,St.Betung,Trapeang Areaks,Ovlaok,Kamboul,Phnom Penh Capital
+"#F4, Trapeang Areaks, Ovlaok, Kamboul, Phnom Penh Capital",#F4,,Trapeang Areaks,Ovlaok,Kamboul,Phnom Penh Capital
+"Kong Yu, Pa Te, Ou Ya Dav, Ratanak Kiri Province",,,Kong Yu,Pa Te,Ou Ya Dav,Ratanak Kiri Province
+"Paoy Paet, Paoy Paet, Banteay Meanchey Province",,,,Paoy Paet,Paoy Paet,Banteay Meanchey Province
+"Peam Chi Kang, Kang Meas, Kampong Cham Province",,,,Peam Chi Kang,Kang Meas,Kampong Cham Province
+"Kaoh Reah Leu, Peam Oknha Ong, Lvea Aem, Kandal Province",,,Kaoh Reah Leu,Peam Oknha Ong,Lvea Aem,Kandal Province
+"Preaek Ta Ong Ti Muoy, Peam Oknha Ong, Lvea Aem, Kandal Province",,,Preaek Ta Ong Ti Muoy,Peam Oknha Ong,Lvea Aem,Kandal Province
+"Peam Oknha Ong, Lvea Aem, Kandal Province",,,,Peam Oknha Ong,Lvea Aem,Kandal Province
+"Kok, Peani, Kampong Tralach, Kampong Chhnang Province",,,Kok,Peani,Kampong Tralach,Kampong Chhnang Province
+"Phnom Touch, Pech Chenda, Phnum Proek, Battambang Province",,,Phnom Touch,Pech Chenda,Phnum Proek,Battambang Province
+"Phnom Touch, Pech Chenda, Phnum Proek, Battambang Province",,,Phnom Touch,Pech Chenda,Phnum Proek,Battambang Province
+"Angk Samnang, Peuk, Angk Snuol, Kandal Province",,,Angk Samnang,Peuk,Angk Snuol,Kandal Province
+"Preah Mlob, Pheari Mean Chey, Basedth, Kampong Speu Province",,,Preah Mlob,Pheari Mean Chey,Basedth,Kampong Speu Province
+"#, St., Phleung Chheh Roteh, Kamboul, Phnom Penh Capital",#,St.,,Phleung Chheh Roteh,Kamboul,Phnom Penh Capital
+"#, St.Betong, Phleung Chheh Roteh, Kamboul, Phnom Penh Capital",#,St.Betong,,Phleung Chheh Roteh,Kamboul,Phnom Penh Capital
+"#0, St.1019, Phnom Penh Thmei, Phnom Penh Thmei, Saensokh, Phnom Penh Capital",#0,St.1019,Phnom Penh Thmei,Phnom Penh Thmei,Saensokh,Phnom Penh Capital
+"Phnom Penh Thmei, Phnom Penh Thmei, Saensokh, Phnom Penh Capital",,,Phnom Penh Thmei,Phnom Penh Thmei,Saensokh,Phnom Penh Capital
+"Tumnob, Phnom Penh Thmei, Saensokh, Phnom Penh Capital",,,Tumnob,Phnom Penh Thmei,Saensokh,Phnom Penh Capital
+"Phnom Penh Thmei, Saensokh, Phnom Penh Capital",,,,Phnom Penh Thmei,Saensokh,Phnom Penh Capital
+"#N/A, St.1315, Bang Bat, Phnom Prasat, Kampong Trach, Kampot Province",#N/A,St.1315,Bang Bat,Phnom Prasat,Kampong Trach,Kampot Province
+"St.st. lum, Phnum Bat, Ponhea Lueu, Kandal Province",,St.st. lum,,Phnum Bat,Ponhea Lueu,Kandal Province
+"Rohal, Phnum Lieb, Preah Netr Preah, Banteay Meanchey Province",,,Rohal,Phnum Lieb,Preah Netr Preah,Banteay Meanchey Province
+"Ou Thom, Phnum Proek, Phnum Proek, Battambang Province",,,Ou Thom,Phnum Proek,Phnum Proek,Battambang Province
+"Phnum Proek, Phnum Proek, Battambang Province",,,,Phnum Proek,Phnum Proek,Battambang Province
+"Phsar Chhnang, Phsar Chhnang, Kampong Chhnang, Kampong Chhnang Province",,,Phsar Chhnang,Phsar Chhnang,Kampong Chhnang,Kampong Chhnang Province
+"#,  St.Lum, Srah Pou, Phsar Daek, Ponhea Lueu, Kandal Province",#,St.Lum,Srah Pou,Phsar Daek,Ponhea Lueu,Kandal Province
+"Mlu Meun, Phsar Daek, Ponhea Lueu, Kandal Province",,,Mlu Meun,Phsar Daek,Ponhea Lueu,Kandal Province
+"Phum 1, Phsar Daeum Thkov, Chamkar Mon, Phnom Penh Capital",,,Phum 1,Phsar Daeum Thkov,Chamkar Mon,Phnom Penh Capital
+"Phsar Daeum Thkov, Doun Penh, Phnom Penh Capital",,,,Phsar Daeum Thkov,Doun Penh,Phnom Penh Capital
+"Phsar Depou Ti Bei, Tuol Kouk, Phnom Penh Capital",,,,Phsar Depou Ti Bei,Tuol Kouk,Phnom Penh Capital
+"Kilou Lekh Buon, Phsar Kandal, Paoy Paet, Banteay Meanchey Province",,,Kilou Lekh Buon,Phsar Kandal,Paoy Paet,Banteay Meanchey Province
+"Phsar Kandal, Phsar Kandal, Paoy Paet, Banteay Meanchey Province",,,Phsar Kandal,Phsar Kandal,Paoy Paet,Banteay Meanchey Province
+"Phsar Kandal, Paoy Paet, Banteay Meanchey Province",,,,Phsar Kandal,Paoy Paet,Banteay Meanchey Province
+"#, St., Dangkear, Phteah Prey, Pursat, Pursat Province",#,St.,Dangkear,Phteah Prey,Pursat,Pursat Province
+"#, St.national road 5, Ou Sdau, Phteah Prey, Pursat, Pursat Province",#,St.national road 5,Ou Sdau,Phteah Prey,Pursat,Pursat Province
+"#, St.national road 5, Phteah Prey, Pursat, Pursat Province",#,St.national road 5,,Phteah Prey,Pursat,Pursat Province
+"#C34, St.BT, Roteang Tbaung, Phum Thum, Kien Svay, Kandal Province",#C34,St.BT,Roteang Tbaung,Phum Thum,Kien Svay,Kandal Province
+"Phum Thum, Kien Svay, Kandal Province",,,,Phum Thum,Kien Svay,Kandal Province
+"St., Beng, Pneay, Samraong Tong, Kampong Speu Province",,St.,Beng,Pneay,Samraong Tong,Kampong Speu Province
+"St.National Road 1440, Tang Ta Lat, Pneay, Samraong Tong, Kampong Speu Province",,St.National Road 1440,Tang Ta Lat,Pneay,Samraong Tong,Kampong Speu Province
+"Pneay, Samraong Tong, Kampong Speu Province",,,,Pneay,Samraong Tong,Kampong Speu Province
+"#L2, St.07A, Prey Kei Ka, Pong Tuek, Dangkao, Phnom Penh Capital",#L2,St.07A,Prey Kei Ka,Pong Tuek,Dangkao,Phnom Penh Capital
+"#A50, St.BT, Trang Daok, Pong Tuek, Dangkao, Phnom Penh Capital",#A50,St.BT,Trang Daok,Pong Tuek,Dangkao,Phnom Penh Capital
+"#D 52, Trang Daok, Pong Tuek, Dangkao, Phnom Penh Capital",#D 52,,Trang Daok,Pong Tuek,Dangkao,Phnom Penh Capital
+"Pong Tuek, Pong Tuek, Dangkao, Phnom Penh Capital",,,Pong Tuek,Pong Tuek,Dangkao,Phnom Penh Capital
+"Trapeang Sala, Pong Tuek, Dangkao, Phnom Penh Capital",,,Trapeang Sala,Pong Tuek,Dangkao,Phnom Penh Capital
+"Pong Tuek, Damnak Chang'aeur, Kep Province",,,,Pong Tuek,Damnak Chang'aeur,Kep Province
+"Pong Tuek, Dangkao, Phnom Penh Capital",,,,Pong Tuek,Dangkao,Phnom Penh Capital
+"#, St.N/A, Banteay Choar, Pongro, Chong Kal, Oddar Meanchey Province",#,St.N/A,Banteay Choar,Pongro,Chong Kal,Oddar Meanchey Province
+"Trapeang Pou, Pongro, Rolea B'ier, Kampong Chhnang Province",,,Trapeang Pou,Pongro,Rolea B'ier,Kampong Chhnang Province
+"Srae Doun Touch, Ponhea Pon, Praek Pnov, Phnom Penh Capital",,,Srae Doun Touch,Ponhea Pon,Praek Pnov,Phnom Penh Capital
+"Trapeang Snaor, Ponhea Pon, Praek Pnov, Phnom Penh Capital",,,Trapeang Snaor,Ponhea Pon,Praek Pnov,Phnom Penh Capital
+"Ponhea Pon, Praek Pnov, Phnom Penh Capital",,,,Ponhea Pon,Praek Pnov,Phnom Penh Capital
+"Ponley, Baribour, Kampong Chhnang Province",,,,Ponley,Baribour,Kampong Chhnang Province
+"#, St., Ponsang, Praek Pnov, Phnom Penh Capital",#,St.,,Ponsang,Praek Pnov,Phnom Penh Capital
+"Osphea, Ponsang, Praek Pnov, Phnom Penh Capital",,,Osphea,Ponsang,Praek Pnov,Phnom Penh Capital
+"Thnal Banteay, Ponsang, Praek Pnov, Phnom Penh Capital",,,Thnal Banteay,Ponsang,Praek Pnov,Phnom Penh Capital
+"Trapeang Thlan, Ponsang, Praek Pnov, Phnom Penh Capital",,,Trapeang Thlan,Ponsang,Praek Pnov,Phnom Penh Capital
+"#NA, St.NA, Damrei Koun, Popel, Soutr Nikom, Siemreap Province",#NA,St.NA,Damrei Koun,Popel,Soutr Nikom,Siemreap Province
+"#NA, St.NA, Popel Lech, Popel, Soutr Nikom, Siemreap Province",#NA,St.NA,Popel Lech,Popel,Soutr Nikom,Siemreap Province
+"#, St., Pou Mreal, Basedth, Kampong Speu Province",#,St.,,Pou Mreal,Basedth,Kampong Speu Province
+"Pram Yam, Srei Santhor, Kampong Cham Province",,,,Pram Yam,Srei Santhor,Kampong Cham Province
+"#, St., Srah Kaev, Prasnoeb, Rolea B'ier, Kampong Chhnang Province",#,St.,Srah Kaev,Prasnoeb,Rolea B'ier,Kampong Chhnang Province
+"#N.A, St.BT, Kouk Meas, Prateah Lang, Kamboul, Phnom Penh Capital",#N.A,St.BT,Kouk Meas,Prateah Lang,Kamboul,Phnom Penh Capital
+"#41, Prateah Lang, Kamboul, Phnom Penh Capital",#41,,,Prateah Lang,Kamboul,Phnom Penh Capital
+"Roboah Angkanh, Preaek Aeng, Chbar Ampov, Phnom Penh Capital",,,Roboah Angkanh,Preaek Aeng,Chbar Ampov,Phnom Penh Capital
+"#, St.st. lum, Khleang Moeang Tboung, Preaek Ampil, Khsach Kandal, Kandal Province",#,St.st. lum,Khleang Moeang Tboung,Preaek Ampil,Khsach Kandal,Kandal Province
+"Preaek Krabau Ti Pir, Preaek Ampil, Khsach Kandal, Kandal Province",,,Preaek Krabau Ti Pir,Preaek Ampil,Khsach Kandal,Kandal Province
+"#N/A, St.Betong, Kraom, Preaek Anhchanh, Mukh Kampul, Kandal Province",#N/A,St.Betong,Kraom,Preaek Anhchanh,Mukh Kampul,Kandal Province
+"Preaek Sandaek, Preaek Changkran, Sithor Kandal, Prey Veng Province",,,Preaek Sandaek,Preaek Changkran,Sithor Kandal,Prey Veng Province
+"#27, St.25, Krang Svay, Preaek Kampues, Dangkao, Phnom Penh Capital",#27,St.25,Krang Svay,Preaek Kampues,Dangkao,Phnom Penh Capital
+"#55E0, St.05, Krang Svay, Preaek Kampues, Dangkao, Phnom Penh Capital",#55E0,St.05,Krang Svay,Preaek Kampues,Dangkao,Phnom Penh Capital
+"#93, St.25, Krang Svay, Preaek Kampues, Dangkao, Phnom Penh Capital",#93,St.25,Krang Svay,Preaek Kampues,Dangkao,Phnom Penh Capital
+"#44, St.17, Srei Snam, Preaek Kampues, Dangkao, Phnom Penh Capital",#44,St.17,Srei Snam,Preaek Kampues,Dangkao,Phnom Penh Capital
+"#63, St.09B, Srei Snam, Preaek Kampues, Dangkao, Phnom Penh Capital",#63,St.09B,Srei Snam,Preaek Kampues,Dangkao,Phnom Penh Capital
+"#27, St.27, Preaek Kampues, Dangkao, Phnom Penh Capital",#27,St.27,,Preaek Kampues,Dangkao,Phnom Penh Capital
+"Preaek Kampues, Preaek Kampues, Dangkao, Phnom Penh Capital",,,Preaek Kampues,Preaek Kampues,Dangkao,Phnom Penh Capital
+"Srei Snam, Preaek Kampues, Dangkao, Phnom Penh Capital",,,Srei Snam,Preaek Kampues,Dangkao,Phnom Penh Capital
+"Preaek Khsay Kha, Peam Ro, Prey Veng Province",,,,Preaek Khsay Kha,Peam Ro,Prey Veng Province
+"#, St., Preaek Krabau, Peam Chor, Prey Veng Province",#,St.,,Preaek Krabau,Peam Chor,Prey Veng Province
+"Khtor, Preaek Lieb, Chraoy Chongvar, Phnom Penh Capital",,,Khtor,Preaek Lieb,Chraoy Chongvar,Phnom Penh Capital
+"St.F-21, Duong, Preaek Phnov, Praek Pnov, Phnom Penh Capital",,St.F-21,Duong,Preaek Phnov,Praek Pnov,Phnom Penh Capital
+"#J84, Phsar Lech, Preaek Phnov, Praek Pnov, Phnom Penh Capital",#J84,,Phsar Lech,Preaek Phnov,Praek Pnov,Phnom Penh Capital
+"Preah Ponlea, Preaek Pra, Chbar Ampov, Phnom Penh Capital",,,Preah Ponlea,Preaek Pra,Chbar Ampov,Phnom Penh Capital
+"Preaek Pra, Chbar Ampov, Phnom Penh Capital",,,,Preaek Pra,Chbar Ampov,Phnom Penh Capital
+"#, St., Kaoh Knor, Preaek Roka, Kandal Stueng, Kandal Province",#,St.,Kaoh Knor,Preaek Roka,Kandal Stueng,Kandal Province
+"Preaek Ruessei, Preaek Ruessei, Lvea Aem, Kandal Province",,,Preaek Ruessei,Preaek Ruessei,Lvea Aem,Kandal Province
+"#, St., Preaek Sambuor, Peam Chor, Prey Veng Province",#,St.,,Preaek Sambuor,Peam Chor,Prey Veng Province
+"Preak Bangkang, Preaek Ta kov, Khsach Kandal, Kandal Province",,,Preak Bangkang,Preaek Ta kov,Khsach Kandal,Kandal Province
+"St.Betong, Preaek Ta Meak, Khsach Kandal, Kandal Province",,St.Betong,,Preaek Ta Meak,Khsach Kandal,Kandal Province
+"St.None, Champuh Kaek, Preaek Thmei, Chbar Ampov, Phnom Penh Capital",,St.None,Champuh Kaek,Preaek Thmei,Chbar Ampov,Phnom Penh Capital
+"Preaek Thmei, Preaek Thmei, Chbar Ampov, Phnom Penh Capital",,,Preaek Thmei,Preaek Thmei,Chbar Ampov,Phnom Penh Capital
+"Preaek Thmei 1, Preaek Thmei, Chbar Ampov, Phnom Penh Capital",,,Preaek Thmei 1,Preaek Thmei,Chbar Ampov,Phnom Penh Capital
+"Preaek Thmei, Chbar Ampov, Phnom Penh Capital",,,,Preaek Thmei,Chbar Ampov,Phnom Penh Capital
+"St.76, Kang Memay, Preah Bat, Stueng Traeng, Stung Treng Province",,St.76,Kang Memay,Preah Bat,Stueng Traeng,Stung Treng Province
+"Preah Bat, Stueng Traeng, Stung Treng Province",,,,Preah Bat,Stueng Traeng,Stung Treng Province
+"Ruessei, Preah Nipean, Kong Pisei, Kampong Speu Province",,,Ruessei,Preah Nipean,Kong Pisei,Kampong Speu Province
+"Prey Ruessei, Preah Ponlea, Serei Saophoan, Banteay Meanchey Province",,,Prey Ruessei,Preah Ponlea,Serei Saophoan,Banteay Meanchey Province
+"Prek Ho, Ta Khmau, Kandal Province",,,,Prek Ho,Ta Khmau,Kandal Province
+"St.302, Prek Preah Sdach, Prek Preah Sdach, Battambang, Battambang Province",,St.302,Prek Preah Sdach,Prek Preah Sdach,Battambang,Battambang Province
+"St.BT, Prek Ruessey, Ta Khmau, Kandal Province",,St.BT,,Prek Ruessey,Ta Khmau,Kandal Province
+"Prek Ruessey, Ta Khmau, Kandal Province",,,,Prek Ruessey,Ta Khmau,Kandal Province
+"Rub Kou, Prey Chhlak, Svay Rieng, Svay Rieng Province",,,Rub Kou,Prey Chhlak,Svay Rieng,Svay Rieng Province
+"#, St., Prey Daeum Thnoeng, Sithor Kandal, Prey Veng Province",#,St.,,Prey Daeum Thnoeng,Sithor Kandal,Prey Veng Province
+"St.3, Boeng Ta Raung, Prey Khmum, Tuek Chhou, Kampot Province",,St.3,Boeng Ta Raung,Prey Khmum,Tuek Chhou,Kampot Province
+"St.123, Prey Lvea Kaeut, Prey Lvea, Prey Kabbas, Takeo Province",,St.123,Prey Lvea Kaeut,Prey Lvea,Prey Kabbas,Takeo Province
+"Ta Vak, Prey Mul, Rolea B'ier, Kampong Chhnang Province",,,Ta Vak,Prey Mul,Rolea B'ier,Kampong Chhnang Province
+"#, St., Krang Ta Saen, Prey Nhi, Pursat, Pursat Province",#,St.,Krang Ta Saen,Prey Nhi,Pursat,Pursat Province
+"#, St., Moan Chae, Prey Nhi, Pursat, Pursat Province",#,St.,Moan Chae,Prey Nhi,Pursat,Pursat Province
+"#, St.5, Prey Nhi, Pursat, Pursat Province",#,St.5,,Prey Nhi,Pursat,Pursat Province
+"Srah Srang, Prey Nhi, Pursat, Pursat Province",,,Srah Srang,Prey Nhi,Pursat,Pursat Province
+"Prey Nhi, Pursat, Pursat Province",,,,Prey Nhi,Pursat,Pursat Province
+"Prey Puoch, Prey Puoch, Angk Snuol, Kandal Province",,,Prey Puoch,Prey Puoch,Angk Snuol,Kandal Province
+"#27, St.8, Prakar, Prey Sa, Dangkao, Phnom Penh Capital",#27,St.8,Prakar,Prey Sa,Dangkao,Phnom Penh Capital
+"#B26, St.The Sok San Town 1, Prakar, Prey Sa, Dangkao, Phnom Penh Capital",#B26,St.The Sok San Town 1,Prakar,Prey Sa,Dangkao,Phnom Penh Capital
+"#51A, St.05, Prakar, Prey Sa, Dangkao, Phnom Penh Capital",#51A,St.05,Prakar,Prey Sa,Dangkao,Phnom Penh Capital
+"#CKD92, St.10, Prakar, Prey Sa, Dangkao, Phnom Penh Capital",#CKD92,St.10,Prakar,Prey Sa,Dangkao,Phnom Penh Capital
+"#M39, St.Betong, Prey Thum, Prey Sa, Dangkao, Phnom Penh Capital",#M39,St.Betong,Prey Thum,Prey Sa,Dangkao,Phnom Penh Capital
+"#11, St.NA, Prey Sa, Dangkao, Phnom Penh Capital",#11,St.NA,,Prey Sa,Dangkao,Phnom Penh Capital
+"Prakar, Prey Sa, Dangkao, Phnom Penh Capital",,,Prakar,Prey Sa,Dangkao,Phnom Penh Capital
+"Prey Sa Khang Lech, Prey Sa, Dangkao, Phnom Penh Capital",,,Prey Sa Khang Lech,Prey Sa,Dangkao,Phnom Penh Capital
+"St.National Road N6, Kdei, Prey Ta Hu, Stueng Saen, Kampong Thom Province",,St.National Road N6,Kdei,Prey Ta Hu,Stueng Saen,Kampong Thom Province
+"#, St., Prey Thnang, Tuek Chhou, Kampot Province",#,St.,,Prey Thnang,Tuek Chhou,Kampot Province
+"Prey Thum, Kaeb, Kep Province",,,,Prey Thum,Kaeb,Kep Province
+"Kamrieng, Prey Veaeng, Dangkao, Phnom Penh Capital",,,Kamrieng,Prey Veaeng,Dangkao,Phnom Penh Capital
+"Prey Veaeng Khang Kaeut, Prey Veaeng, Dangkao, Phnom Penh Capital",,,Prey Veaeng Khang Kaeut,Prey Veaeng,Dangkao,Phnom Penh Capital
+"Prey Veaeng, Dangkao, Phnom Penh Capital",,,,Prey Veaeng,Dangkao,Phnom Penh Capital
+"Puk Ruessei Kandal, Puk Ruessei, Khsach Kandal, Kandal Province",,,Puk Ruessei Kandal,Puk Ruessei,Khsach Kandal,Kandal Province
+"Kouk Doung, Puok, Puok, Siemreap Province",,,Kouk Doung,Puok,Puok,Siemreap Province
+"Puok Chas, Puok, Puok, Siemreap Province",,,Puok Chas,Puok,Puok,Siemreap Province
+"Puok Thmei, Puok, Puok, Siemreap Province",,,Puok Thmei,Puok,Puok,Siemreap Province
+"Puok, Puok, Siemreap Province",,,,Puok,Puok,Siemreap Province
+"St.Ream Blvd, Ong, Ream, Prey Nob, Preah Sihanouk Province",,St.Ream Blvd,Ong,Ream,Prey Nob,Preah Sihanouk Province
+"Ream, Prey Nob, Preah Sihanouk Province",,,,Ream,Prey Nob,Preah Sihanouk Province
+"St.Plav Phum, Reathor, Preah Sdach, Prey Veng Province",,St.Plav Phum,,Reathor,Preah Sdach,Prey Veng Province
+"Tuol Bei, Reay Pay, Kang Meas, Kampong Cham Province",,,Tuol Bei,Reay Pay,Kang Meas,Kampong Cham Province
+"Reay Pay, Kang Meas, Kampong Cham Province",,,,Reay Pay,Kang Meas,Kampong Cham Province
+"Tnaot Mlu, Robieb, Rovieng, Preah Vihear Province",,,Tnaot Mlu,Robieb,Rovieng,Preah Vihear Province
+"Rohal, Rohal, Preah Netr Preah, Banteay Meanchey Province",,,Rohal,Rohal,Preah Netr Preah,Banteay Meanchey Province
+"St., Thnal Baek, Roka Krau, Doun Kaev, Takeo Province",,St.,Thnal Baek,Roka Krau,Doun Kaev,Takeo Province
+"#, St., Prey Aomal, Roleab, Pursat, Pursat Province",#,St.,Prey Aomal,Roleab,Pursat,Pursat Province
+"St., Trapeang Sab, Roleang Kreul, Samraong Tong, Kampong Speu Province",,St.,Trapeang Sab,Roleang Kreul,Samraong Tong,Kampong Speu Province
+"St.Betong, Trapeang Sab, Roleang Kreul, Samraong Tong, Kampong Speu Province",,St.Betong,Trapeang Sab,Roleang Kreul,Samraong Tong,Kampong Speu Province
+"Trapeang Sab, Roleang Kreul, Samraong Tong, Kampong Speu Province",,,Trapeang Sab,Roleang Kreul,Samraong Tong,Kampong Speu Province
+"Roleang Kreul, Samraong Tong, Kampong Speu Province",,,,Roleang Kreul,Samraong Tong,Kampong Speu Province
+"#297, St.07, Kandal, Roluos, Dangkao, Phnom Penh Capital",#297,St.07,Kandal,Roluos,Dangkao,Phnom Penh Capital
+"#, St.St.Ring Road 3, Roluos, Dangkao, Phnom Penh Capital",#,St.St.Ring Road 3,,Roluos,Dangkao,Phnom Penh Capital
+"Kandal, Roluos, Dangkao, Phnom Penh Capital",,,Kandal,Roluos,Dangkao,Phnom Penh Capital
+"Slaeng, Roluos, Svay Chek, Banteay Meanchey Province",,,Slaeng,Roluos,Svay Chek,Banteay Meanchey Province
+"Roluos, Svay Chek, Banteay Meanchey Province",,,,Roluos,Svay Chek,Banteay Meanchey Province
+"Pu Tang, Romonea, Saen Monourom, Mondul Kiri Province",,,Pu Tang,Romonea,Saen Monourom,Mondul Kiri Province
+"Rumchek 4, Rottanak, Battambang, Battambang Province",,,Rumchek 4,Rottanak,Battambang,Battambang Province
+"Neang Ket, Ruessei Kraok, Mongkol Borei, Banteay Meanchey Province",,,Neang Ket,Ruessei Kraok,Mongkol Borei,Banteay Meanchey Province
+"Rumchek, Rumchek, Banteay Srei, Siemreap Province",,,Rumchek,Rumchek,Banteay Srei,Siemreap Province
+"Run Ta Aek, Banteay Srei, Siemreap Province",,,,Run Ta Aek,Banteay Srei,Siemreap Province
+"Rovieng Tboung, Rung Roeang, Rovieng, Preah Vihear Province",,,Rovieng Tboung,Rung Roeang,Rovieng,Preah Vihear Province
+"S'ang, S'ang, Chey Saen, Preah Vihear Province",,,S'ang,S'ang,Chey Saen,Preah Vihear Province
+"Khnay Kakaoh Thmei, Saeb, Kampong Tralach, Kampong Chhnang Province",,,Khnay Kakaoh Thmei,Saeb,Kampong Tralach,Kampong Chhnang Province
+"Pu Rang, Saen Monourom, Ou Reang, Mondul Kiri Province",,,Pu Rang,Saen Monourom,Ou Reang,Mondul Kiri Province
+"Pu Tru, Saen Monourom, Ou Reang, Mondul Kiri Province",,,Pu Tru,Saen Monourom,Ou Reang,Mondul Kiri Province
+"#, St., Chreav, Sala Kamreuk, Siem Reap, Siemreap Province",#,St.,Chreav,Sala Kamreuk,Siem Reap,Siemreap Province
+"#, St., Chunlong, Sala Kamreuk, Siem Reap, Siemreap Province",#,St.,Chunlong,Sala Kamreuk,Siem Reap,Siemreap Province
+"#, St., Sala Kamreuk, Sala Kamreuk, Siem Reap, Siemreap Province",#,St.,Sala Kamreuk,Sala Kamreuk,Siem Reap,Siemreap Province
+"#, St., Wat Svay, Sala Kamreuk, Siem Reap, Siemreap Province",#,St.,Wat Svay,Sala Kamreuk,Siem Reap,Siemreap Province
+"Chreav, Sala Kamreuk, Siem Reap, Siemreap Province",,,Chreav,Sala Kamreuk,Siem Reap,Siemreap Province
+"Chunlong, Sala Kamreuk, Siem Reap, Siemreap Province",,,Chunlong,Sala Kamreuk,Siem Reap,Siemreap Province
+"Svay Dangkum, Sala Kamreuk, Siem Reap, Siemreap Province",,,Svay Dangkum,Sala Kamreuk,Siem Reap,Siemreap Province
+"Wat Svay, Sala Kamreuk, Siem Reap, Siemreap Province",,,Wat Svay,Sala Kamreuk,Siem Reap,Siemreap Province
+"Sala Kamreuk, Siem Reap, Siemreap Province",,,,Sala Kamreuk,Siem Reap,Siemreap Province
+"#, St.64, Sam Ang, Sam Ang, Thala Barivat, Stung Treng Province",#,St.64,Sam Ang,Sam Ang,Thala Barivat,Stung Treng Province
+"Kakot, Sambok, Chetr Borei, Kratie Province",,,Kakot,Sambok,Chetr Borei,Kratie Province
+"Trapeang Ruessei, Sambour, Samraong Tong, Kampong Speu Province",,,Trapeang Ruessei,Sambour,Samraong Tong,Kampong Speu Province
+"Samkhuoy, Samkhuoy, Sesan, Stung Treng Province",,,Samkhuoy,Samkhuoy,Sesan,Stung Treng Province
+"Preaek Saem, Sampeou Poun, Kaoh Thum, Kandal Province",,,Preaek Saem,Sampeou Poun,Kaoh Thum,Kandal Province
+"Sampong Chey, Cheung Prey, Kampong Cham Province",,,,Sampong Chey,Cheung Prey,Kampong Cham Province
+"#, St.N/A, Borei Rothbal, Samraong, Samraong, Oddar Meanchey Province",#,St.N/A,Borei Rothbal,Samraong,Samraong,Oddar Meanchey Province
+"#N/A, St.N/A, Borei Rothbal, Samraong, Samraong, Oddar Meanchey Province",#N/A,St.N/A,Borei Rothbal,Samraong,Samraong,Oddar Meanchey Province
+"Kouk Kor, Samraong, Samraong, Oddar Meanchey Province",,,Kouk Kor,Samraong,Samraong,Oddar Meanchey Province
+"Pul, Samraong, Samraong, Oddar Meanchey Province",,,Pul,Samraong,Samraong,Oddar Meanchey Province
+"#173, St.32, Tekapanhao, Samraong Kraom, Pur SenChey, Phnom Penh Capital",#173,St.32,Tekapanhao,Samraong Kraom,Pur SenChey,Phnom Penh Capital
+"#H47, Andoung Ta An, Samraong Kraom, Pur SenChey, Phnom Penh Capital",#H47,,Andoung Ta An,Samraong Kraom,Pur SenChey,Phnom Penh Capital
+"Chamkar Sbaeng, Samraong Kraom, Pur SenChey, Phnom Penh Capital",,,Chamkar Sbaeng,Samraong Kraom,Pur SenChey,Phnom Penh Capital
+"Kouk Prich, Samraong Kraom, Pur SenChey, Phnom Penh Capital",,,Kouk Prich,Samraong Kraom,Pur SenChey,Phnom Penh Capital
+"Prey Popel, Samraong Kraom, Pur SenChey, Phnom Penh Capital",,,Prey Popel,Samraong Kraom,Pur SenChey,Phnom Penh Capital
+"Tekapanhao, Samraong Kraom, Pur SenChey, Phnom Penh Capital",,,Tekapanhao,Samraong Kraom,Pur SenChey,Phnom Penh Capital
+"Trapeang Thnong, Samraong Kraom, Pur SenChey, Phnom Penh Capital",,,Trapeang Thnong,Samraong Kraom,Pur SenChey,Phnom Penh Capital
+"Samraong Kraom, Pur SenChey, Phnom Penh Capital",,,,Samraong Kraom,Pur SenChey,Phnom Penh Capital
+"Chamkar Doung, Samraong Leu, Angk Snuol, Kandal Province",,,Chamkar Doung,Samraong Leu,Angk Snuol,Kandal Province
+"Kaoh Krob Bay, Samraong Leu, Angk Snuol, Kandal Province",,,Kaoh Krob Bay,Samraong Leu,Angk Snuol,Kandal Province
+"Kakpal, Sandaek, Batheay, Kampong Cham Province",,,Kakpal,Sandaek,Batheay,Kampong Cham Province
+"St.06, Chak, Sangvaeuy, Chi Kraeng, Siemreap Province",,St.06,Chak,Sangvaeuy,Chi Kraeng,Siemreap Province
+"St.06, Sangvaeuy, Chi Kraeng, Siemreap Province",,St.06,,Sangvaeuy,Chi Kraeng,Siemreap Province
+"Sangvaeuy, Chi Kraeng, Siemreap Province",,,,Sangvaeuy,Chi Kraeng,Siemreap Province
+"Trapeang Prolit, Santepheap, Sampov Lun, Battambang Province",,,Trapeang Prolit,Santepheap,Sampov Lun,Battambang Province
+"Ta Chou, Sarikakaev, Lvea Aem, Kandal Province",,,Ta Chou,Sarikakaev,Lvea Aem,Kandal Province
+"Satv Pong, Satv Pong, Chhuk, Kampot Province",,,Satv Pong,Satv Pong,Chhuk,Kampot Province
+"Satv Pong, Chhuk, Kampot Province",,,,Satv Pong,Chhuk,Kampot Province
+"Lvea Kraom, Sdau, Kang Meas, Kampong Cham Province",,,Lvea Kraom,Sdau,Kang Meas,Kampong Cham Province
+"Kaeng Sann, Seda, Lumphat, Ratanak Kiri Province",,,Kaeng Sann,Seda,Lumphat,Ratanak Kiri Province
+"Chamkar Svay, Sedthei, Sameakki Mean Chey, Kampong Chhnang Province",,,Chamkar Svay,Sedthei,Sameakki Mean Chey,Kampong Chhnang Province
+"Krang Siem, Sedthei, Sameakki Mean Chey, Kampong Chhnang Province",,,Krang Siem,Sedthei,Sameakki Mean Chey,Kampong Chhnang Province
+"#, St., Boeng, Siem Reab, Siem Reap, Siemreap Province",#,St.,Boeng,Siem Reab,Siem Reap,Siemreap Province
+"#, St., Kakranh, Siem Reab, Siem Reap, Siemreap Province",#,St.,Kakranh,Siem Reab,Siem Reap,Siemreap Province
+"#, St., Krasang Roleung, Siem Reab, Siem Reap, Siemreap Province",#,St.,Krasang Roleung,Siem Reab,Siem Reap,Siemreap Province
+"#NA, St.Lum, Rean Thma, Siem Reab, Kandal Stueng, Kandal Province",#NA,St.Lum,Rean Thma,Siem Reab,Kandal Stueng,Kandal Province
+"Phnom Krom, Siem Reab, Siem Reap, Siemreap Province",,,Phnom Krom,Siem Reab,Siem Reap,Siemreap Province
+"#04, St.Concrete Road, Dam Spey, Sla Ket, Battambang, Battambang Province",#04,St.Concrete Road,Dam Spey,Sla Ket,Battambang,Battambang Province
+"St.516, Chrey Kaong, Sla Ket, Battambang, Battambang Province",,St.516,Chrey Kaong,Sla Ket,Battambang,Battambang Province
+"#, St., Anhchanh, Sla Kram, Siem Reap, Siemreap Province",#,St.,Anhchanh,Sla Kram,Siem Reap,Siemreap Province
+"#, St., Sla Kram, Sla Kram, Siem Reap, Siemreap Province",#,St.,Sla Kram,Sla Kram,Siem Reap,Siemreap Province
+"Boeng Donpa, Sla Kram, Siem Reap, Siemreap Province",,,Boeng Donpa,Sla Kram,Siem Reap,Siemreap Province
+"Chongkaosou, Sla Kram, Siem Reap, Siemreap Province",,,Chongkaosou,Sla Kram,Siem Reap,Siemreap Province
+"Sla Kram, Sla Kram, Siem Reap, Siemreap Province",,,Sla Kram,Sla Kram,Siem Reap,Siemreap Province
+"Sla Kram, Siem Reap, Siemreap Province",,,,Sla Kram,Siem Reap,Siemreap Province
+"St.8, Thnal Kaeng, Smaong Khang Cheung, Kamchay Mear, Prey Veng Province",,St.8,Thnal Kaeng,Smaong Khang Cheung,Kamchay Mear,Prey Veng Province
+"Veal Vong, Sna Ansa, Krakor, Pursat Province",,,Veal Vong,Sna Ansa,Krakor,Pursat Province
+"Tuol Lieb, Snaor, Kamboul, Phnom Penh Capital",,,Tuol Lieb,Snaor,Kamboul,Phnom Penh Capital
+"Snaor, Kamboul, Phnom Penh Capital",,,,Snaor,Kamboul,Phnom Penh Capital
+"Ta Kong, Sngkat Sambuor, Siem Reap, Siemreap Province",,,Ta Kong,Sngkat Sambuor,Siem Reap,Siemreap Province
+"Veal, Sngkat Sambuor, Siem Reap, Siemreap Province",,,Veal,Sngkat Sambuor,Siem Reap,Siemreap Province
+"Sngkat Sambuor, Siem Reap, Siemreap Province",,,,Sngkat Sambuor,Siem Reap,Siemreap Province
+"##76, Kbal Snuol, Snuol, Snuol, Kratie Province",##76,,Kbal Snuol,Snuol,Snuol,Kratie Province
+"Kbal Snuol, Snuol, Snuol, Kratie Province",,,Kbal Snuol,Snuol,Snuol,Kratie Province
+"Rumchek, Sochet, Sandan, Kampong Thom Province",,,Rumchek,Sochet,Sandan,Kampong Thom Province
+"Daoh Kramom, Sokh Dom, Saen Monourom, Mondul Kiri Province",,,Daoh Kramom,Sokh Dom,Saen Monourom,Mondul Kiri Province
+"Lauka, Sokh Dom, Saen Monourom, Mondul Kiri Province",,,Lauka,Sokh Dom,Saen Monourom,Mondul Kiri Province
+"Sokh Dom, Saen Monourom, Mondul Kiri Province",,,,Sokh Dom,Saen Monourom,Mondul Kiri Province
+"#Na, St.Lum, Ou Spean, Spean Mean Chey, Saen Monourom, Mondul Kiri Province",#Na,St.Lum,Ou Spean,Spean Mean Chey,Saen Monourom,Mondul Kiri Province
+"Chamkar Tae, Spean Mean Chey, Saen Monourom, Mondul Kiri Province",,,Chamkar Tae,Spean Mean Chey,Saen Monourom,Mondul Kiri Province
+"Spean Thma, Dangkao, Phnom Penh Capital",,,,Spean Thma,Dangkao,Phnom Penh Capital
+"Ou Kraom, Spean Tnaot, Chi Kraeng, Siemreap Province",,,Ou Kraom,Spean Tnaot,Chi Kraeng,Siemreap Province
+"Srae Chaeng, Chum Kiri, Kampot Province",,,,Srae Chaeng,Chum Kiri,Kampot Province
+"Srae Chea Khang Cheung, Dang Tong, Kampot Province",,,,Srae Chea Khang Cheung,Dang Tong,Kampot Province
+"Voat, Srae Nouy, Varin, Siemreap Province",,,Voat,Srae Nouy,Varin,Siemreap Province
+"Srae Nouy, Varin, Siemreap Province",,,,Srae Nouy,Varin,Siemreap Province
+"Chamkar Ta Mau, Srae Thmei, Rolea B'ier, Kampong Chhnang Province",,,Chamkar Ta Mau,Srae Thmei,Rolea B'ier,Kampong Chhnang Province
+"Santuch, Srae Thmei, Rolea B'ier, Kampong Chhnang Province",,,Santuch,Srae Thmei,Rolea B'ier,Kampong Chhnang Province
+"Traok Lech, Srae Thmei, Rolea B'ier, Kampong Chhnang Province",,,Traok Lech,Srae Thmei,Rolea B'ier,Kampong Chhnang Province
+"Trapeang Sbov, Srae Thmei, Rolea B'ier, Kampong Chhnang Province",,,Trapeang Sbov,Srae Thmei,Rolea B'ier,Kampong Chhnang Province
+"Srae Thmei, Rolea B'ier, Kampong Chhnang Province",,,,Srae Thmei,Rolea B'ier,Kampong Chhnang Province
+"#16, St.7A, Srah Chak, Doun Penh, Phnom Penh Capital",#16,St.7A,,Srah Chak,Doun Penh,Phnom Penh Capital
+"Phum 1, Srah Chak, Doun Penh, Phnom Penh Capital",,,Phum 1,Srah Chak,Doun Penh,Phnom Penh Capital
+"Phum 10, Srah Chak, Doun Penh, Phnom Penh Capital",,,Phum 10,Srah Chak,Doun Penh,Phnom Penh Capital
+"Srah Chak, Doun Penh, Phnom Penh Capital",,,,Srah Chak,Doun Penh,Phnom Penh Capital
+"St.64, Thma Leaph, Srah Ruessei, Stueng Traeng, Stung Treng Province",,St.64,Thma Leaph,Srah Ruessei,Stueng Traeng,Stung Treng Province
+"#, St., Srah Ruessei, Stueng Traeng, Stung Treng Province",#,St.,,Srah Ruessei,Stueng Traeng,Stung Treng Province
+"Srongae, Srangae, Siem Reap, Siemreap Province",,,Srongae,Srangae,Siem Reap,Siemreap Province
+"Srayang Cheung, Srayang, Kuleaen, Preah Vihear Province",,,Srayang Cheung,Srayang,Kuleaen,Preah Vihear Province
+"Srayang Tboung, Srayang, Kuleaen, Preah Vihear Province",,,Srayang Tboung,Srayang,Kuleaen,Preah Vihear Province
+"Roluos, Srayov, Stueng Saen, Kampong Thom Province",,,Roluos,Srayov,Stueng Saen,Kampong Thom Province
+"Phsar Prum, Stueng Kach, Sala Krau, Pailin Province",,,Phsar Prum,Stueng Kach,Sala Krau,Pailin Province
+"Trea, Stueng Mean chey 1, Mean Chey, Phnom Penh Capital",,,Trea,Stueng Mean chey 1,Mean Chey,Phnom Penh Capital
+"Trea Pir, Stueng Mean chey 1, Mean Chey, Phnom Penh Capital",,,Trea Pir,Stueng Mean chey 1,Mean Chey,Phnom Penh Capital
+"Stueng Mean chey 1, Mean Chey, Phnom Penh Capital",,,,Stueng Mean chey 1,Mean Chey,Phnom Penh Capital
+"#, St., Stueng Mean chey 2, Mean Chey, Phnom Penh Capital",#,St.,,Stueng Mean chey 2,Mean Chey,Phnom Penh Capital
+"Ruessei, Stueng Mean chey 2, Mean Chey, Phnom Penh Capital",,,Ruessei,Stueng Mean chey 2,Mean Chey,Phnom Penh Capital
+"Ruessei 3, Stueng Mean chey 2, Mean Chey, Phnom Penh Capital",,,Ruessei 3,Stueng Mean chey 2,Mean Chey,Phnom Penh Capital
+"Stueng Mean chey 2, Mean Chey, Phnom Penh Capital",,,,Stueng Mean chey 2,Mean Chey,Phnom Penh Capital
+"Russey Muoy, Stueng Mean chey 3, Mean Chey, Phnom Penh Capital",,,Russey Muoy,Stueng Mean chey 3,Mean Chey,Phnom Penh Capital
+"#, St.76, Pum Preaek, Stueng Traeng, Stueng Traeng, Stung Treng Province",#,St.76,Pum Preaek,Stueng Traeng,Stueng Traeng,Stung Treng Province
+"#, St.77, Pum Preaek, Stueng Traeng, Stueng Traeng, Stung Treng Province",#,St.77,Pum Preaek,Stueng Traeng,Stueng Traeng,Stung Treng Province
+"#, St.78, Pum Preaek, Stueng Traeng, Stueng Traeng, Stung Treng Province",#,St.78,Pum Preaek,Stueng Traeng,Stueng Traeng,Stung Treng Province
+"St.77, Pum Preaek, Stueng Traeng, Stueng Traeng, Stung Treng Province",,St.77,Pum Preaek,Stueng Traeng,Stueng Traeng,Stung Treng Province
+"St.61, Trapeang Pring, Stueng Traeng, Stueng Traeng, Stung Treng Province",,St.61,Trapeang Pring,Stueng Traeng,Stueng Traeng,Stung Treng Province
+"Trapeang Pring, Stueng Traeng, Stueng Traeng, Stung Treng Province",,,Trapeang Pring,Stueng Traeng,Stueng Traeng,Stung Treng Province
+"Stueng Traeng, Stueng Traeng, Stung Treng Province",,,,Stueng Traeng,Stueng Traeng,Stung Treng Province
+"Svay Antor Ti Muoy, Svay Antor, Svay Antor, Prey Veng Province",,,Svay Antor Ti Muoy,Svay Antor,Svay Antor,Prey Veng Province
+"Krang Pophleak, Svay At, Pursat, Pursat Province",,,Krang Pophleak,Svay At,Pursat,Pursat Province
+"Sthani, Svay At, Pursat, Pursat Province",,,Sthani,Svay At,Pursat,Pursat Province
+"Svay At, Svay At, Pursat, Pursat Province",,,Svay At,Svay At,Pursat,Pursat Province
+"Khvav Lech, Svay Chek, Svay Chek, Banteay Meanchey Province",,,Khvav Lech,Svay Chek,Svay Chek,Banteay Meanchey Province
+"Sla Kram, Svay Chek, Svay Chek, Banteay Meanchey Province",,,Sla Kram,Svay Chek,Svay Chek,Banteay Meanchey Province
+"Thmei, Svay Chek, Svay Chek, Banteay Meanchey Province",,,Thmei,Svay Chek,Svay Chek,Banteay Meanchey Province
+"Smaet, Svay Chrum, Rolea B'ier, Kampong Chhnang Province",,,Smaet,Svay Chrum,Rolea B'ier,Kampong Chhnang Province
+"Prey Nheam, Svay Chuk, Sameakki Mean Chey, Kampong Chhnang Province",,,Prey Nheam,Svay Chuk,Sameakki Mean Chey,Kampong Chhnang Province
+"Trapeang Tunloab, Svay Chuk, Sameakki Mean Chey, Kampong Chhnang Province",,,Trapeang Tunloab,Svay Chuk,Sameakki Mean Chey,Kampong Chhnang Province
+"#, St., Kantrork, Svay Dankum, Siem Reap, Siemreap Province",#,St.,Kantrork,Svay Dankum,Siem Reap,Siemreap Province
+"#, St., Phnhea Chey, Svay Dankum, Siem Reap, Siemreap Province",#,St.,Phnhea Chey,Svay Dankum,Siem Reap,Siemreap Province
+"#, St., Sala Kanseng, Svay Dankum, Siem Reap, Siemreap Province",#,St.,Sala Kanseng,Svay Dankum,Siem Reap,Siemreap Province
+"#, St., Stueng Thmei, Svay Dankum, Siem Reap, Siemreap Province",#,St.,Stueng Thmei,Svay Dankum,Siem Reap,Siemreap Province
+"#, St.BBU Road, Svay Dangkum, Svay Dankum, Siem Reap, Siemreap Province",#,St.BBU Road,Svay Dangkum,Svay Dankum,Siem Reap,Siemreap Province
+"#, St.Phsar  Krom Road, Svay Dangkum, Svay Dankum, Siem Reap, Siemreap Province",#,St.Phsar  Krom Road,Svay Dangkum,Svay Dankum,Siem Reap,Siemreap Province
+"#, St., Svay Dangkum, Svay Dankum, Siem Reap, Siemreap Province",#,St.,Svay Dangkum,Svay Dankum,Siem Reap,Siemreap Province
+"#, St., Svay Preae, Svay Dankum, Siem Reap, Siemreap Province",#,St.,Svay Preae,Svay Dankum,Siem Reap,Siemreap Province
+"#NA , St.Na, Ta Phul, Svay Dankum, Siem Reap, Siemreap Province",#NA ,St.Na,Ta Phul,Svay Dankum,Siem Reap,Siemreap Province
+"#, St., Thmei, Svay Dankum, Siem Reap, Siemreap Province",#,St.,Thmei,Svay Dankum,Siem Reap,Siemreap Province
+"#, St., Vihear Chen, Svay Dankum, Siem Reap, Siemreap Province",#,St.,Vihear Chen,Svay Dankum,Siem Reap,Siemreap Province
+"#, St., Svay Dankum, Siem Reap, Siemreap Province",#,St.,,Svay Dankum,Siem Reap,Siemreap Province
+"Kruos, Svay Dankum, Siem Reap, Siemreap Province",,,Kruos,Svay Dankum,Siem Reap,Siemreap Province
+"Phnhea Chey, Svay Dankum, Siem Reap, Siemreap Province",,,Phnhea Chey,Svay Dankum,Siem Reap,Siemreap Province
+"Svay Dangkum, Svay Dankum, Siem Reap, Siemreap Province",,,Svay Dangkum,Svay Dankum,Siem Reap,Siemreap Province
+"Svay Dankum, Siem Reap, Siemreap Province",,,,Svay Dankum,Siem Reap,Siemreap Province
+"Trapeang Sang Chiek, Svay Kravan, Chbar Mon, Kampong Speu Province",,,Trapeang Sang Chiek,Svay Kravan,Chbar Mon,Kampong Speu Province
+"St.N/A, Chheh Chan, Svay Leu, Svay Leu, Siemreap Province",,St.N/A,Chheh Chan,Svay Leu,Svay Leu,Siemreap Province
+"St.64, Trapeang Khnar, Svay Leu, Svay Leu, Siemreap Province",,St.64,Trapeang Khnar,Svay Leu,Svay Leu,Siemreap Province
+"St.N/A, Svay Leu, Svay Leu, Siemreap Province",,St.N/A,,Svay Leu,Svay Leu,Siemreap Province
+"Svay Leu, Svay Leu, Siemreap Province",,,,Svay Leu,Svay Leu,Siemreap Province
+"Lu, Svay Pak, Russey Keo, Phnom Penh Capital",,,Lu,Svay Pak,Russey Keo,Phnom Penh Capital
+"#, St., Svay Phluoh, Peam Chor, Prey Veng Province",#,St.,,Svay Phluoh,Peam Chor,Prey Veng Province
+"Bat Sloek, Svay Rieng, Bavet, Svay Rieng Province",,,Bat Sloek,Svay Rieng,Bavet,Svay Rieng Province
+"Chong Preaek, Svay Rieng, Svay Rieng, Svay Rieng Province",,,Chong Preaek,Svay Rieng,Svay Rieng,Svay Rieng Province
+"St.NR 1, Svay Rieng, Svay Rieng, Svay Rieng Province",,St.NR 1,,Svay Rieng,Svay Rieng,Svay Rieng Province
+"#N/A, St.  N/A, Lekh Muoy, Svay Rolum, Ta Khmau, Kandal Province",#N/A,St.  N/A,Lekh Muoy,Svay Rolum,Ta Khmau,Kandal Province
+"#N.A, St.BT, Lekh Muoy, Svay Rolum, Ta Khmau, Kandal Province",#N.A,St.BT,Lekh Muoy,Svay Rolum,Ta Khmau,Kandal Province
+"Svay Rolum, Ta Khmau, Kandal Province",,,,Svay Rolum,Ta Khmau,Kandal Province
+"#A44, Lekh Muoy, Svay Rolum, Ta Khmau, Kandal Province",#A44,,Lekh Muoy,Svay Rolum,Ta Khmau,Kandal Province
+"Lekh Muoy, Svay Rolum, Ta Khmau, Kandal Province",,,Lekh Muoy,Svay Rolum,Ta Khmau,Kandal Province
+"Phsar Slab Leaeng, Svay Rumpear, Basedth, Kampong Speu Province",,,Phsar Slab Leaeng,Svay Rumpear,Basedth,Kampong Speu Province
+"Slab Leaeng, Svay Rumpear, Basedth, Kampong Speu Province",,,Slab Leaeng,Svay Rumpear,Basedth,Kampong Speu Province
+"Slaeng, Svay Rumpear, Basedth, Kampong Speu Province",,,Slaeng,Svay Rumpear,Basedth,Kampong Speu Province
+"#, St., Svay Teab, Chamkar Leu, Kampong Cham Province",#,St.,,Svay Teab,Chamkar Leu,Kampong Cham Province
+"#NA, St.210, Prek Samraong, Ta Khmao, Ta Khmau, Kandal Province",#NA,St.210,Prek Samraong,Ta Khmao,Ta Khmau,Kandal Province
+"Ta Khmao 3, Ta Khmao, Ta Khmau, Kandal Province",,,Ta Khmao 3,Ta Khmao,Ta Khmau,Kandal Province
+"Thmei 2, Ta Khmao, Ta Khmau, Kandal Province",,,Thmei 2,Ta Khmao,Ta Khmau,Kandal Province
+"Ta Khmao, Ta Khmau, Kandal Province",,,,Ta Khmao,Ta Khmau,Kandal Province
+"Ta Ney, Ta Ney, Prey Nob, Preah Sihanouk Province",,,Ta Ney,Ta Ney,Prey Nob,Preah Sihanouk Province
+"Ta Ney, Prey Nob, Preah Sihanouk Province",,,,Ta Ney,Prey Nob,Preah Sihanouk Province
+"St.None, Ou Chamlang, Ta Saen, Kamrieng, Battambang Province",,St.None,Ou Chamlang,Ta Saen,Kamrieng,Battambang Province
+"Ou Anlok, Ta Saen, Kamrieng, Battambang Province",,,Ou Anlok,Ta Saen,Kamrieng,Battambang Province
+"Ta Sda, Ta Sda, Sampov Lun, Battambang Province",,,Ta Sda,Ta Sda,Sampov Lun,Battambang Province
+"Trapeang Thmar, Ta Siem, Svay Leu, Siemreap Province",,,Trapeang Thmar,Ta Siem,Svay Leu,Siemreap Province
+"Trapeang Tuem, Ta Siem, Svay Leu, Siemreap Province",,,Trapeang Tuem,Ta Siem,Svay Leu,Siemreap Province
+"#, St., Veal Sbov, Tang Krasang, Tuek Phos, Kampong Chhnang Province",#,St.,Veal Sbov,Tang Krasang,Tuek Phos,Kampong Chhnang Province
+"Tang Krasang, Tang Krasang, Santuk, Kampong Thom Province",,,Tang Krasang,Tang Krasang,Santuk,Kampong Thom Province
+"Tang Krouch, Samraong Tong, Kampong Speu Province",,,,Tang Krouch,Samraong Tong,Kampong Speu Province
+"Tbaeng Kaeut, Tbaeng, Banteay Srei, Siemreap Province",,,Tbaeng Kaeut,Tbaeng,Banteay Srei,Siemreap Province
+"Teuk thla, Saensokh, Phnom Penh Capital",,,,Teuk thla,Saensokh,Phnom Penh Capital
+"Veal Khsach, Thala Barivat, Thala Barivat, Stung Treng Province",,,Veal Khsach,Thala Barivat,Thala Barivat,Stung Treng Province
+"Thlok Vien, Thlok Vien, Sameakki Mean Chey, Kampong Chhnang Province",,,Thlok Vien,Thlok Vien,Sameakki Mean Chey,Kampong Chhnang Province
+"Thma Krae Leu, Thma Kreae, Chetr Borei, Kratie Province",,,Thma Krae Leu,Thma Kreae,Chetr Borei,Kratie Province
+"Thmei, Tien, Dangkao, Phnom Penh Capital",,,Thmei,Tien,Dangkao,Phnom Penh Capital
+"St.Abdul Carime St. 21, Phum 7, Tonle Basak, Chamkar Mon, Phnom Penh Capital",,St.Abdul Carime St. 21,Phum 7,Tonle Basak,Chamkar Mon,Phnom Penh Capital
+"#54, Phum 9, Tonle Basak, Chamkar Mon, Phnom Penh Capital",#54,,Phum 9,Tonle Basak,Chamkar Mon,Phnom Penh Capital
+"#, St., Tonle Basak, Chamkar Mon, Phnom Penh Capital",#,St.,,Tonle Basak,Chamkar Mon,Phnom Penh Capital
+"#25, Phum 9, Tonle Basak, Chamkar Mon, Phnom Penh Capital",#25,,Phum 9,Tonle Basak,Chamkar Mon,Phnom Penh Capital
+"#34, Tonle Basak, Chamkar Mon, Phnom Penh Capital",#34,,,Tonle Basak,Chamkar Mon,Phnom Penh Capital
+"Tonle Basak, Chamkar Mon, Phnom Penh Capital",,,,Tonle Basak,Chamkar Mon,Phnom Penh Capital
+"#49, St.7A, Yeay Sar, Tonle Bet, Tboung Khmum, Tboung Khmum Province",#49,St.7A,Yeay Sar,Tonle Bet,Tboung Khmum,Tboung Khmum Province
+"Changkum Kandal, Tonlung, Memot, Tboung Khmum Province",,,Changkum Kandal,Tonlung,Memot,Tboung Khmum Province
+"Tonlung, Memot, Tboung Khmum Province",,,,Tonlung,Memot,Tboung Khmum Province
+"Traeng, Rotonak Mondol, Battambang Province",,,,Traeng,Rotonak Mondol,Battambang Province
+"St.Road 8 metter, Srol, Traeng Trayueng, Phnum Sruoch, Kampong Speu Province",,St.Road 8 metter,Srol,Traeng Trayueng,Phnum Sruoch,Kampong Speu Province
+"St.Road 10 metter, Srol, Traeng Trayueng, Phnum Sruoch, Kampong Speu Province",,St.Road 10 metter,Srol,Traeng Trayueng,Phnum Sruoch,Kampong Speu Province
+"St.Road 8 metter, Ti Bei, Traeng Trayueng, Phnum Sruoch, Kampong Speu Province",,St.Road 8 metter,Ti Bei,Traeng Trayueng,Phnum Sruoch,Kampong Speu Province
+"Veal Thom, Traeng Trayueng, Phnum Sruoch, Kampong Speu Province",,,Veal Thom,Traeng Trayueng,Phnum Sruoch,Kampong Speu Province
+"Trapeang Ruessei, Tram Kak, Tram Kak, Takeo Province",,,Trapeang Ruessei,Tram Kak,Tram Kak,Takeo Province
+"Tram Kak, Tram Kak, Takeo Province",,,,Tram Kak,Tram Kak,Takeo Province
+"Tramung, Tramung, Memot, Tboung Khmum Province",,,Tramung,Tramung,Memot,Tboung Khmum Province
+"Sanlang, Trapeang Chan, Baribour, Kampong Chhnang Province",,,Sanlang,Trapeang Chan,Baribour,Kampong Chhnang Province
+"St.5, Thmei, Trapeang chorng, Bakan, Pursat Province",,St.5,Thmei,Trapeang chorng,Bakan,Pursat Province
+"Kraol Krabei, Trapeang chorng, Bakan, Pursat Province",,,Kraol Krabei,Trapeang chorng,Bakan,Pursat Province
+"#35, Ou Krang Ambel, Trapeang Kong, Samraong Tong, Kampong Speu Province",#35,,Ou Krang Ambel,Trapeang Kong,Samraong Tong,Kampong Speu Province
+"Ou Krang Ambel, Trapeang Kong, Samraong Tong, Kampong Speu Province",,,Ou Krang Ambel,Trapeang Kong,Samraong Tong,Kampong Speu Province
+"Prey Kuy, Trapeang Kong, Samraong Tong, Kampong Speu Province",,,Prey Kuy,Trapeang Kong,Samraong Tong,Kampong Speu Province
+"Trapeang Ampil, Trapeang Kong, Samraong Tong, Kampong Speu Province",,,Trapeang Ampil,Trapeang Kong,Samraong Tong,Kampong Speu Province
+"Trapeang Sang Chiek, Trapeang Kong, Samraong Tong, Kampong Speu Province",,,Trapeang Sang Chiek,Trapeang Kong,Samraong Tong,Kampong Speu Province
+"Chongruk, Trapeang Krasang, Pur SenChey, Phnom Penh Capital",,,Chongruk,Trapeang Krasang,Pur SenChey,Phnom Penh Capital
+"Trapaang Andoung, Trapeang Krasang, Pur SenChey, Phnom Penh Capital",,,Trapaang Andoung,Trapeang Krasang,Pur SenChey,Phnom Penh Capital
+"Trapeang Krasang, Trapeang Krasang, Pur SenChey, Phnom Penh Capital",,,Trapeang Krasang,Trapeang Krasang,Pur SenChey,Phnom Penh Capital
+"Trapeang Phlong, Ponhea Kraek, Tboung Khmum Province",,,,Trapeang Phlong,Ponhea Kraek,Tboung Khmum Province
+"Ou Krouch, Trapeang Prasat, Trapeang Prasat, Oddar Meanchey Province",,,Ou Krouch,Trapeang Prasat,Trapeang Prasat,Oddar Meanchey Province
+"Trapeang Prasat, Trapeang Prasat, Trapeang Prasat, Oddar Meanchey Province",,,Trapeang Prasat,Trapeang Prasat,Trapeang Prasat,Oddar Meanchey Province
+"Trapeang Prasat, Trapeang Prasat, Oddar Meanchey Province",,,,Trapeang Prasat,Trapeang Prasat,Oddar Meanchey Province
+"Trapeang Pring, Tuek Chhou, Kampot Province",,,,Trapeang Pring,Tuek Chhou,Kampot Province
+"Thnal Baek, Trapeang Ruessei, Kampong Svay, Kampong Thom Province",,,Thnal Baek,Trapeang Ruessei,Kampong Svay,Kampong Thom Province
+"Voa Yeav, Trapeang Ruessei, Kampong Svay, Kampong Thom Province",,,Voa Yeav,Trapeang Ruessei,Kampong Svay,Kampong Thom Province
+"Trapeang Ruessei, Kampong Svay, Kampong Thom Province",,,,Trapeang Ruessei,Kampong Svay,Kampong Thom Province
+"Trapeang Sab, Bati, Takeo Province",,,,Trapeang Sab,Bati,Takeo Province
+"Roka Kambot, Trapeang Thum, Prasat Bakong, Siemreap Province",,,Roka Kambot,Trapeang Thum,Prasat Bakong,Siemreap Province
+"Svay Chey, Trapeang Thum, Prasat Bakong, Siemreap Province",,,Svay Chey,Trapeang Thum,Prasat Bakong,Siemreap Province
+"Sam K'aok, Trea, Stoung, Kampong Thom Province",,,Sam K'aok,Trea,Stoung,Kampong Thom Province
+"#NA, St.202, Thipakdei, Trei Nhoar, Puok, Siemreap Province",#NA,St.202,Thipakdei,Trei Nhoar,Puok,Siemreap Province
+"#NA, St.202, Trei Nhoar, Puok, Siemreap Province",#NA,St.202,,Trei Nhoar,Puok,Siemreap Province
+"Tuek Khleang, Lvea Aem, Kandal Province",,,,Tuek Khleang,Lvea Aem,Kandal Province
+"#99, St.12, Phum 12, Tuek L'ak Ti Bei, Tuol Kouk, Phnom Penh Capital",#99,St.12,Phum 12,Tuek L'ak Ti Bei,Tuol Kouk,Phnom Penh Capital
+"Tuek L'ak Ti Bei, Tuol Kouk, Phnom Penh Capital",,,,Tuek L'ak Ti Bei,Tuol Kouk,Phnom Penh Capital
+"Tuek L'ak Ti Muoy, Tuol Kouk, Phnom Penh Capital",,,,Tuek L'ak Ti Muoy,Tuol Kouk,Phnom Penh Capital
+"#N.A, St.N.A, Tuek Thla, Tuek Thla, Saensokh, Phnom Penh Capital",#N.A,St.N.A,Tuek Thla,Tuek Thla,Saensokh,Phnom Penh Capital
+"#115, St.118, Tuek Thla, Saensokh, Phnom Penh Capital",#115,St.118,,Tuek Thla,Saensokh,Phnom Penh Capital
+"Dei Lou, Tuek Thla, Serei Saophoan, Banteay Meanchey Province",,,Dei Lou,Tuek Thla,Serei Saophoan,Banteay Meanchey Province
+"Keab, Tuek Thla, Serei Saophoan, Banteay Meanchey Province",,,Keab,Tuek Thla,Serei Saophoan,Banteay Meanchey Province
+"Tuek Thla, Tuek Thla, Saensokh, Phnom Penh Capital",,,Tuek Thla,Tuek Thla,Saensokh,Phnom Penh Capital
+"Tuek Thla, Saensokh, Phnom Penh Capital",,,,Tuek Thla,Saensokh,Phnom Penh Capital
+"#NA, St.NA, Prei Chas, Tuek Vil, Siem Reap, Siemreap Province",#NA,St.NA,Prei Chas,Tuek Vil,Siem Reap,Siemreap Province
+"Leaeng, Tum Ring, Sandan, Kampong Thom Province",,,Leaeng,Tum Ring,Sandan,Kampong Thom Province
+"Roneam, Tum Ring, Sandan, Kampong Thom Province",,,Roneam,Tum Ring,Sandan,Kampong Thom Province
+"St.NR51, Tumnob Thum, Ponhea Lueu, Kandal Province",,St.NR51,,Tumnob Thum,Ponhea Lueu,Kandal Province
+"Tumnob Thum, Ponhea Lueu, Kandal Province",,,,Tumnob Thum,Ponhea Lueu,Kandal Province
+"Khlong, Tuol Prech, Angk Snuol, Kandal Province",,,Khlong,Tuol Prech,Angk Snuol,Kandal Province
+"Khnar, Tuol Prech, Angk Snuol, Kandal Province",,,Khnar,Tuol Prech,Angk Snuol,Kandal Province
+"#, St., Tuol Sangkae 1, Russey Keo, Phnom Penh Capital",#,St.,,Tuol Sangkae 1,Russey Keo,Phnom Penh Capital
+"Tuol Sangkae 1, Russey Keo, Phnom Penh Capital",,,,Tuol Sangkae 1,Russey Keo,Phnom Penh Capital
+"#NA, St.NA, Tuol Porpae, Tuol Sangkae 2, Russey Keo, Phnom Penh Capital",#NA,St.NA,Tuol Porpae,Tuol Sangkae 2,Russey Keo,Phnom Penh Capital
+"#, St., Tuol Sangkae 2, Russey Keo, Phnom Penh Capital",#,St.,,Tuol Sangkae 2,Russey Keo,Phnom Penh Capital
+"Tuol Sangkae 2, Russey Keo, Phnom Penh Capital",,,,Tuol Sangkae 2,Russey Keo,Phnom Penh Capital
+"Phum 4, Tuol Svay Prey Ti Muoy, Boeng Keng Kang, Phnom Penh Capital",,,Phum 4,Tuol Svay Prey Ti Muoy,Boeng Keng Kang,Phnom Penh Capital
+"St.406, O Ta Kam II, Tuol Ta Ek, Battambang, Battambang Province",,St.406,O Ta Kam II,Tuol Ta Ek,Battambang,Battambang Province
+"Tuol Tumpung Ti Muoy, Chamkar Mon, Phnom Penh Capital",,,,Tuol Tumpung Ti Muoy,Chamkar Mon,Phnom Penh Capital
+"#478, St.340, Phum 1, Tuol Tumpung Ti Pir, Chamkar Mon, Phnom Penh Capital",#478,St.340,Phum 1,Tuol Tumpung Ti Pir,Chamkar Mon,Phnom Penh Capital
+"#, St., Pou Kambaor, Veal, Kandieng, Pursat Province",#,St.,Pou Kambaor,Veal,Kandieng,Pursat Province
+"St., Veal Pong, Odongk, Kampong Speu Province",,St.,,Veal Pong,Odongk,Kampong Speu Province
+"#13FE0, St.Betong, Veal Sbov, Veal Sbov, Chbar Ampov, Phnom Penh Capital",#13FE0,St.Betong,Veal Sbov,Veal Sbov,Chbar Ampov,Phnom Penh Capital
+"#B2, St.Betong, Veal Sbov, Veal Sbov, Chbar Ampov, Phnom Penh Capital",#B2,St.Betong,Veal Sbov,Veal Sbov,Chbar Ampov,Phnom Penh Capital
+"#B3, St.Betong, Veal Sbov, Chbar Ampov, Phnom Penh Capital",#B3,St.Betong,,Veal Sbov,Chbar Ampov,Phnom Penh Capital
+"#, St., Veal Sbov, Chbar Ampov, Phnom Penh Capital",#,St.,,Veal Sbov,Chbar Ampov,Phnom Penh Capital
+"Kdei Ta Koy, Veal Sbov, Chbar Ampov, Phnom Penh Capital",,,Kdei Ta Koy,Veal Sbov,Chbar Ampov,Phnom Penh Capital
+"Preaek Cheang Prum, Veal Sbov, Chbar Ampov, Phnom Penh Capital",,,Preaek Cheang Prum,Veal Sbov,Chbar Ampov,Phnom Penh Capital
+"Veal Sbov, Veal Sbov, Chbar Ampov, Phnom Penh Capital",,,Veal Sbov,Veal Sbov,Chbar Ampov,Phnom Penh Capital
+"Veal Sbov, Chbar Ampov, Phnom Penh Capital",,,,Veal Sbov,Chbar Ampov,Phnom Penh Capital
+"Veal Vong, Prampir Meakkakra, Phnom Penh Capital",,,,Veal Vong,Prampir Meakkakra,Phnom Penh Capital
+"Oudong, Veang Chas, Odongk, Kampong Speu Province",,,Oudong,Veang Chas,Odongk,Kampong Speu Province
+"St., Ampil Dam Tuek, Vihear Luong, Ponhea Lueu, Kandal Province",,St.,Ampil Dam Tuek,Vihear Luong,Ponhea Lueu,Kandal Province
+"Prasrae Kraom, Vihear Luong, Suong, Tboung Khmum Province",,,Prasrae Kraom,Vihear Luong,Suong,Tboung Khmum Province
+"Thyung, Vihear Luong, Ponhea Lueu, Kandal Province",,,Thyung,Vihear Luong,Ponhea Lueu,Kandal Province
+"Vihear Luong, Ponhea Lueu, Kandal Province",,,,Vihear Luong,Ponhea Lueu,Kandal Province
+"Preaek Chas, Vihear Suork, Khsach Kandal, Kandal Province",,,Preaek Chas,Vihear Suork,Khsach Kandal,Kandal Province
+"Vihear Suork Cheung, Vihear Suork, Khsach Kandal, Kandal Province",,,Vihear Suork Cheung,Vihear Suork,Khsach Kandal,Kandal Province
+"Vihear Suork Tboung, Vihear Suork, Khsach Kandal, Kandal Province",,,Vihear Suork Tboung,Vihear Suork,Khsach Kandal,Kandal Province
+"Voa Sar, Samraong Tong, Kampong Speu Province",,,,Voa Sar,Samraong Tong,Kampong Speu Province
+"#20, St.20, Phum 10, Voat Phnum, Doun Penh, Phnom Penh Capital",#20,St.20,Phum 10,Voat Phnum,Doun Penh,Phnom Penh Capital
+"Voat Phnum, Doun Penh, Phnom Penh Capital",,,,Voat Phnum,Doun Penh,Phnom Penh Capital
+"St.05 Hiway, Chrap Krasaing, wat Kor, Battambang, Battambang Province",,St.05 Hiway,Chrap Krasaing,wat Kor,Battambang,Battambang Province
+"St.1107, Chrap Krasaing, wat Kor, Battambang, Battambang Province",,St.1107,Chrap Krasaing,wat Kor,Battambang,Battambang Province
+"St.1206 & 1210, Chrap Krasaing, wat Kor, Battambang, Battambang Province",,St.1206 & 1210,Chrap Krasaing,wat Kor,Battambang,Battambang Province
+"St.916, Damnak Luong, wat Kor, Battambang, Battambang Province",,St.916,Damnak Luong,wat Kor,Battambang,Battambang Province
+"St.916, Kampong Seima, wat Kor, Battambang, Battambang Province",,St.916,Kampong Seima,wat Kor,Battambang,Battambang Province
+"wat Kor, Battambang, Battambang Province",,,,wat Kor,Battambang,Battambang Province
